@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Alec B. Luro</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alec B. Luro © 2020</copyright><lastBuildDate>Thu, 23 Apr 2020 16:07:12 -0500</lastBuildDate>
+    <image>
+      <url>/img/alec_profile_photo.JPG</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Alec B. Luro</title>
+      <link>/author/alec-b.-luro/</link>
+      <pubDate>Thu, 23 Apr 2020 16:07:12 -0500</pubDate>
+      <guid>/author/alec-b.-luro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.A. Louder</title>
+      <link>/author/a.a.-louder/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/author/a.a.-louder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Hanley</title>
+      <link>/author/d.-hanley/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/author/d.-hanley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Dainson</title>
+      <link>/author/m.-dainson/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/author/m.-dainson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark E. Hauber</title>
+      <link>/author/mark-e.-hauber/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/author/mark-e.-hauber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Bond</title>
+      <link>/author/a.-bond/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/a.-bond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.L. Kouwenberg</title>
+      <link>/author/a.l.-kouwenberg/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/a.l.-kouwenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E.S. Hansen</title>
+      <link>/author/e.s.-hansen/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/e.s.-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G.J. Robertson</title>
+      <link>/author/g.j.-robertson/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/g.j.-robertson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Dale</title>
+      <link>/author/j.-dale/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/j.-dale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Holford</title>
+      <link>/author/m.-holford/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/author/m.-holford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alec Luro</title>
+      <link>/author/alec-luro/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/author/alec-luro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C.J. McCarty</title>
+      <link>/author/c.j.-mccarty/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/author/c.j.-mccarty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Barateli</title>
+      <link>/author/k.-barateli/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/author/k.-barateli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P.Cassey</title>
+      <link>/author/p.cassey/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/author/p.cassey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.V. Lopez</title>
+      <link>/author/a.v.-lopez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/author/a.v.-lopez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B. Igic</title>
+      <link>/author/b.-igic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/author/b.-igic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.D. Shawkey</title>
+      <link>/author/m.d.-shawkey/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/author/m.d.-shawkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Croston</title>
+      <link>/author/r.-croston/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/author/r.-croston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alec Luro</title>
+      <link>/author/alec-luro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/alec-luro/</guid>
+      <description>&lt;p&gt;I am a researcher studying how visual perception and color influences behavior in birds. My current work focuses on offspring recognition in hosts of brood parasites, mate recognition and choice in American robins (&lt;em&gt;Turdus migratorius&lt;/em&gt;), and the evolution of plumage sexual dichromatism in &lt;em&gt;Turdus&lt;/em&gt; thrushes. Much of my research involves the use of spectroscopy, modeling of avian vision, and using a variety of statistical approaches to answer why animals look and behave the way they do.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.V. Lopez | Alec B. Luro</title>
+    <link>/author/a.v.-lopez/</link>
+      <atom:link href="/author/a.v.-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.V. Lopez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alec B. Luro © 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alec_profile_photo.JPG</url>
+      <title>A.V. Lopez</title>
+      <link>/author/a.v.-lopez/</link>
+    </image>
+    
+    <item>
+      <title>Which egg features predict egg rejection responses in American robins? Replicating Rothstein’s (1982) study</title>
+      <link>/publication/rothstein_replication/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rothstein_replication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

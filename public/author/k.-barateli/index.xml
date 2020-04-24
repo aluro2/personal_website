@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Barateli | Alec B. Luro</title>
+    <link>/author/k.-barateli/</link>
+      <atom:link href="/author/k.-barateli/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Barateli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alec B. Luro © 2020</copyright><lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alec_profile_photo.JPG</url>
+      <title>K. Barateli</title>
+      <link>/author/k.-barateli/</link>
+    </image>
+    
+    <item>
+      <title>Interannual repeatability of eggshell phenotype in individualfemale Common Murres (Uria aalge)</title>
+      <link>/publication/murre_egg_repeatability/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/murre_egg_repeatability/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Statistical analyses, Table 1 and Figure 3&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

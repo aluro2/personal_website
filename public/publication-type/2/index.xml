@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Alec B. Luro</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alec B. Luro © 2020</copyright><lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alec_profile_photo.JPG</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>When are egg-rejection cues perceived? A test using thermochromic eggs in an avian brood parasite host</title>
+      <link>/publication/thermo_eggs/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/thermo_eggs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Spectral reflectnace measurements, avian visual modeling analyses &amp;amp; Figures 1-2&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The chemical basis of a signal of individual identity: shell pigment concentrations track the unique appearance of Common Murre eggs.</title>
+      <link>/publication/murre_egg_chemical_comp/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/murre_egg_chemical_comp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Avian visual modeling analyses &amp;amp; Figures 2-5&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interannual repeatability of eggshell phenotype in individualfemale Common Murres (Uria aalge)</title>
+      <link>/publication/murre_egg_repeatability/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/murre_egg_repeatability/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Statistical analyses, Table 1 and Figure 3&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Which egg features predict egg rejection responses in American robins? Replicating Rothstein’s (1982) study</title>
+      <link>/publication/rothstein_replication/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rothstein_replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A test of the nest sanitation hypothesis for the evolution of foreign egg rejection in an avian brood parasite rejecter host species</title>
+      <link>/publication/nest_sanitation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nest_sanitation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
