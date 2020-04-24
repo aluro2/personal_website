@@ -63,7 +63,7 @@
   # Featured image
   # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
   [header]
-  image = "headers/nest_sanitation_figure.png"
+  image = "headers/rothstein_replication_fig2.jpg"
   caption = "American robins reject eggs with features that resemble the eggsof Brown-headed Cowbirds"
 
 +++
