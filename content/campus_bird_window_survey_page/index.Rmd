@@ -1,0 +1,155 @@
+---
+title: "University of Illinois Bird Window Strike Campus Survey Fall 2019"
+date: "2019-11-30"
+header:
+  caption: ''
+  image: 'bird_windowstrikes_collage.jpg'
+profile: no
+reading_time: no
+share: yes
+subtitle: Led by Graduates in Ecology and Evolutionary Biology
+summary: Here we describe how to add a page to your site.
+comments: no
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width = 12, fig.height = 12, fig.path = 'Figs/', fig.align = "center",
+                      echo = TRUE, warning = FALSE, tidy = F)
+```
+
+```{r load packages and import data, echo=FALSE, message=FALSE}
+
+library(tidyverse)
+library(googlesheets)
+library(janitor)
+library(ggthemes)
+library(extrafont)
+library(htmltools)
+library(leaflet)
+library(DT)
+library(stringr)
+
+```
+
+```{r birds_by_species, echo = FALSE, message = FALSE}
+
+bird_data <-
+  read_csv("Data/UIUC_bird_survey_data_backup.csv")
+
+text_cols<-colorRampPalette(c("red", "dodgerblue"))
+
+bird_data_by_species <-
+  bird_data %>%
+    filter(any_birds_found_on_route_shift == "Yes",
+           !species == "NA",
+           !species == "Unidentifiable") %>% 
+    select(species) %>% 
+    table(.) %>% 
+    as_tibble(.) %>% 
+    rename(Species = ".",
+           "Number of Birds Found" = n ) %>%
+    mutate(Species = str_extract(Species, "[^_]+")) %>%
+    arrange(., desc(`Number of Birds Found`), Species) %>% 
+    mutate(Species = factor(Species, levels = unique(Species))) %>% 
+  filter(`Number of Birds Found` > 1)
+
+bird_data_by_species %>% 
+  ggplot(., aes(x = Species, y = `Number of Birds Found`)) + 
+  geom_linerange(
+    aes(x = Species, ymin = 0, ymax = `Number of Birds Found`), 
+    color = "darkgray",
+    size = 1.5) +
+  geom_point(aes(fill = `Number of Birds Found`,
+                 color = `Number of Birds Found`),
+             shape = 21,
+             size = 7,
+             stroke = 1.5,
+             position = position_dodge(width = 0.8)) +
+  scale_fill_gradient2(high = "red",
+                       mid = "orange",
+                       low = "dodgerblue",
+                       midpoint = 12) +
+  scale_colour_gradient2(high = "black",
+                         mid = "gray4",
+                         low = "lightgray",
+                         midpoint = 6) +
+  ylim(0,25) +
+  theme_fivethirtyeight() + 
+  theme(#panel.background = element_rect(fill = "black",
+                                        #colour = "black",
+                                       #size = 0.5, linetype = "solid"),
+        axis.text.x = element_text(angle = 50, hjust = 1, size = 18, colour = text_cols(nrow(bird_data_by_species))),
+        axis.title = element_text(size = 36, face = "bold"),
+        text = element_text(family = "Calibri", size = 20),
+        legend.position = "none",
+        panel.grid.major.x = element_blank(),
+        plot.margin = margin(t = 0.5, b = 0.5, r = 0.5, l = 2, "cm")
+        )
+```
+
+***
+
+## Birds Found by Location
+
+```{r leaflet_interactive_map, echo=FALSE, message=FALSE}
+
+building_locations <- 
+  read_csv("Data/campus_building_locations.csv") 
+
+
+bird_map_data <- 
+  bird_data %>% 
+    filter(any_birds_found_on_route_shift == "Yes") %>% 
+    left_join(., building_locations, by = "building_name") %>% 
+    select(species, lat, lon, picture_url_google_photos_album, date_mm_dd_yyyy) %>% 
+    mutate(picture_url_google_photos_album = paste0("<a href='",
+                                                   str_trim(picture_url_google_photos_album),
+                                                   "'>Photo Link</a>", sep = "" ),
+           species = str_extract(species, "[^_]+"),
+           species_date = paste0(species, "\n", date_mm_dd_yyyy, "\n", sep = " ")) 
+
+bird_map_data %>% 
+  leaflet() %>%
+  addTiles() %>%
+  addMarkers(., lng = ~lon, lat = ~lat, popup = ~picture_url_google_photos_album, label = ~htmlEscape(species_date), clusterOptions = markerClusterOptions())
+```
+
+***
+
+[Download Data](Data/UIUC_bird_survey_data_backup.csv)
+
+***
+
+## Participants
+
+* Alec Luro
+* Alex Di Giovanni
+* Alida de Flamingh
+* Amy Anderson
+* Angel Rivera-Colon
+* Caterina Kim
+* Ceci Prada
+* Claire Johnson
+* Colin Dobson
+* Donglai Li
+* Evalynn Trumbo
+* Gabby Jukkala
+* Henry Pollock
+* Ian Souza-Cole
+* Ilona Menel
+* Kira Long
+* Loralee Wilson
+* Lynette Strickland
+* Maggie Murphree
+* Morgan Meador
+* Rachel Skinner
+* Samantha Capel
+* Sarai Stuart
+* Scott Clem
+* Shelby Lawson
+* Stefanie Postula
+* Tianlin Pan
+* Tolu Perrin-Stowe
+* Veronica Severini
+* Xing Liu
+* Yu-Fu Wu

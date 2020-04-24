@@ -1,0 +1,11 @@
+# Font style metadata
+name = "roboto_fonts"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Roboto+Slab:300, 300italic, 600|Roboto+Mono"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Roboto Slab"
+nav_font = "Roboto Slab"
+mono_font = "Roboto Mono"

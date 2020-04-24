@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Hanley | Alec B. Luro</title>
+    <link>/author/d.-hanley/</link>
+      <atom:link href="/author/d.-hanley/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Hanley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alec B. Luro © 2020</copyright><lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alec_profile_photo.JPG</url>
+      <title>D. Hanley</title>
+      <link>/author/d.-hanley/</link>
+    </image>
+    
+    <item>
+      <title>When are egg-rejection cues perceived? A test using thermochromic eggs in an avian brood parasite host</title>
+      <link>/publication/thermo_eggs/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/thermo_eggs/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Spectral reflectnace measurements, avian visual modeling analyses &amp;amp; Figures 1-2&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

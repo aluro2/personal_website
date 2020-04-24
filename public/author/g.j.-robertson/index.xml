@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G.J. Robertson | Alec B. Luro</title>
+    <link>/author/g.j.-robertson/</link>
+      <atom:link href="/author/g.j.-robertson/index.xml" rel="self" type="application/rss+xml" />
+    <description>G.J. Robertson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Alec B. Luro © 2020</copyright><lastBuildDate>Wed, 03 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/alec_profile_photo.JPG</url>
+      <title>G.J. Robertson</title>
+      <link>/author/g.j.-robertson/</link>
+    </image>
+    
+    <item>
+      <title>The chemical basis of a signal of individual identity: shell pigment concentrations track the unique appearance of Common Murre eggs.</title>
+      <link>/publication/murre_egg_chemical_comp/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/murre_egg_chemical_comp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contribution&lt;/strong&gt;: Avian visual modeling analyses &amp;amp; Figures 2-5&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
