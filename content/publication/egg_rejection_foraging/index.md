@@ -4,7 +4,7 @@
   title = "Avian diet and foraging ecology constrain foreign egg recognition and rejection"
 
   # Date first published.
-  date = "2020-04-24"
+  date = "2020-05-04"
 
   # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
   authors = ["Alec B. Luro", "Mark E. Hauber"]
@@ -40,8 +40,8 @@
   projects = ["offspring_recognition"]
 
   # Links (optional).
-  url_pdf = ""
-  url_preprint = ""
+  url_pdf = "pdfs/luro_hauber_2020_avianbiolres.pdf"
+  url_preprint = "pdfs/luro_hauber_2018_bioarxiv.pdf"
   url_code = ""
   url_dataset = ""
   url_project = ""
@@ -49,7 +49,7 @@
   url_video = ""
   url_poster = ""
   url_source = ""
-  doi = ""
+  doi = "10.1177/1758155920914575"
 
   # Custom links (optional).
   #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

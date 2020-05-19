@@ -1,7 +1,7 @@
 
 +++
 
-  title = "Interannual repeatability of eggshell phenotype in individualfemale Common Murres (Uria aalge)"
+  title = "Interannual repeatability of eggshell phenotype in individual female Common Murres (Uria aalge)"
 
   # Date first published.
   date = "2019-01-12"
