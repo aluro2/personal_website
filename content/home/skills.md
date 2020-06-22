@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "lightbulb"
   icon_pack = "fas"
-  name = "Spectrophotometry"
+  name = "Spectroscopy"
   description = ""
   
 [[feature]]

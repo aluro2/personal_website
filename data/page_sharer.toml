@@ -9,13 +9,13 @@
   icon = "twitter"
   enable = true
 
-[[buttons]]
-  id = "facebook"
-  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
-  title = "Facebook"
-  icon_pack = "fab"
-  icon = "facebook"
-  enable = true
+#[[buttons]]
+#  id = "facebook"
+#  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
+#  title = "Facebook"
+#  icon_pack = "fab"
+#  icon = "facebook"
+#  enable = true
 
 [[buttons]]
   id = "email"
@@ -34,28 +34,12 @@
   enable = true
 
 [[buttons]]
-  id = "whatsapp"
-  url = "https://web.whatsapp.com/send?text={title}%20{url}"
-  title = "WhatsApp"
-  icon_pack = "fab"
-  icon = "whatsapp"
-  enable = true
-
-[[buttons]]
-  id = "weibo"
-  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
-  title = "Weibo"
-  icon_pack = "fab"
-  icon = "weibo"
-  enable = true
-
-[[buttons]]
   id = "reddit"
   url = "https://reddit.com/submit?url={url}&title={title}"
   title = "Reddit"
   icon_pack = "fab"
   icon = "reddit-alien"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "pinterest"
