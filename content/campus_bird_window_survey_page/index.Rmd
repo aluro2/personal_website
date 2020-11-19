@@ -9,7 +9,7 @@ share: yes
 subtitle: Led by Graduates in Ecology and Evolutionary Biology
 summary: 
 comments: no
-output: hugodown::md_document
+output: 
 ---
 
 ```{r load packages and import data, echo=FALSE, message=FALSE}
