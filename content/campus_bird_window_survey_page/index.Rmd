@@ -111,7 +111,12 @@ species_plot <-
         legend.position = "none",
         panel.grid.major.x = element_blank())
 
-ggplotly(species_plot, tooltip = "text")
+species_plot <- 
+  ggplotly(species_plot, tooltip = "text")
+
+htmlwidgets::saveWidget(species_plot, file = "species_plot.html")
+
+htmltools::includeHTML("species_plot.html")
 
 ```
 
@@ -139,7 +144,10 @@ bird_map_data <-
 bird_map_data %>% 
   leaflet() %>%
   addTiles() %>%
-  addMarkers(., lng = ~lon, lat = ~lat, popup = ~picture_url_google_photos_album, label = ~htmlEscape(species_date), clusterOptions = markerClusterOptions())
+  addMarkers(., lng = ~lon, lat = ~lat, popup = ~picture_url_google_photos_album, label = ~htmlEscape(species_date), clusterOptions = markerClusterOptions()) %>% 
+  htmlwidgets::saveWidget(., file = "bird_leaflet_map.html")
+
+htmltools::includeHTML("bird_leaflet_map.html")
 ```
 
 ***
