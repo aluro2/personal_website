@@ -17,9 +17,9 @@
 {{/* Generate homepage. */}}
 {{ partial "widget_page.html" . }}
 
+{{- end -}}
+
 {{/* Allow HTMLwidgets */}}
 {{ range .Params.html_dependencies }}
   {{ . | safeHTML }}
 {{ end }}
-
-{{- end -}}

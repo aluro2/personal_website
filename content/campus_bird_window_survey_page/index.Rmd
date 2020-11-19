@@ -9,7 +9,6 @@ share: yes
 subtitle: Led by Graduates in Ecology and Evolutionary Biology
 summary: 
 comments: no
-output: 
 ---
 
 ```{r load packages and import data, echo=FALSE, message=FALSE}
@@ -117,7 +116,7 @@ species_plot <-
 
 ## Birds Found by Location
 
-```{r leaflet_interactive_map, echo=FALSE, message=FALSE}
+```{r leaflet_interactive_map, echo=FALSE, message=FALSE, warning=FALSE}
 
 building_locations <- 
   read_csv("Data/campus_building_locations.csv") 
