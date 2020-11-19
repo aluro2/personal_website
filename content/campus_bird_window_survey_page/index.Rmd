@@ -9,12 +9,8 @@ share: yes
 subtitle: Led by Graduates in Ecology and Evolutionary Biology
 summary: 
 comments: no
+output: hugodown::md_document
 ---
-
-```{r global_options, include=FALSE}
-knitr::opts_chunk$set(fig.width = 12, fig.height = 12, fig.path = 'Figs/', fig.align = "center",
-                      echo = TRUE, warning = FALSE, tidy = F)
-```
 
 ```{r load packages and import data, echo=FALSE, message=FALSE}
 
@@ -111,12 +107,9 @@ species_plot <-
         legend.position = "none",
         panel.grid.major.x = element_blank())
 
-species_plot <- 
+
   ggplotly(species_plot, tooltip = "text")
 
-htmlwidgets::saveWidget(species_plot, file = "species_plot.html")
-
-htmltools::includeHTML("species_plot.html")
 
 ```
 
@@ -144,10 +137,8 @@ bird_map_data <-
 bird_map_data %>% 
   leaflet() %>%
   addTiles() %>%
-  addMarkers(., lng = ~lon, lat = ~lat, popup = ~picture_url_google_photos_album, label = ~htmlEscape(species_date), clusterOptions = markerClusterOptions()) %>% 
-  htmlwidgets::saveWidget(., file = "bird_leaflet_map.html")
+  addMarkers(., lng = ~lon, lat = ~lat, popup = ~picture_url_google_photos_album, label = ~htmlEscape(species_date), clusterOptions = markerClusterOptions()) 
 
-htmltools::includeHTML("bird_leaflet_map.html")
 ```
 
 ***
