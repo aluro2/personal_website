@@ -9,7 +9,6 @@ share: yes
 subtitle: Led by Graduates in Ecology and Evolutionary Biology
 summary: 
 comments: no
-output: hugodown::md_document
 ---
 
 ```{r global_options, include=FALSE}
