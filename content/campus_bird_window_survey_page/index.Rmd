@@ -1,5 +1,5 @@
 ---
-title: "University of Illinois Bird Window Strike Campus Survey Fall 2019-2020"
+title: "University of Illinois Bird Window Collision Campus Survey Fall 2019-2020"
 header:
   caption: ''
   image: bird_windowstrikes_collage.jpg
@@ -7,8 +7,9 @@ profile: no
 reading_time: no
 share: yes
 subtitle: Led by Graduates in Ecology and Evolutionary Biology
-summary: 
+summary: Webpage for bird window collision data analysis reporting.
 comments: no
+output: hugodown::md_document
 ---
 
 ```{r load packages and import data, echo=FALSE, message=FALSE}
@@ -24,6 +25,7 @@ library(DT)
 library(stringr)
 library(plotly)
 library(lubridate)
+library(widgetframe)
 
 survey_data_paths <-
   list.files("Data", "UIUC_bird_survey_data_backup", full.names = TRUE)
@@ -107,7 +109,10 @@ species_plot <-
         panel.grid.major.x = element_blank())
 
 
-  ggplotly(species_plot, tooltip = "text")
+  plotly_species_plot <-
+    ggplotly(species_plot, tooltip = "text")
+  
+  widgetframe::frameWidget(plotly_species_plot)
 
 
 ```
@@ -133,10 +138,16 @@ bird_map_data <-
            species = str_extract(species, "[^_]+"),
            species_date = paste0(species, "\n", date_mm_dd_yyyy, "\n", sep = " ")) 
 
-bird_map_data %>% 
-  leaflet() %>%
-  addTiles() %>%
-  addMarkers(., lng = ~lon, lat = ~lat, popup = ~picture_url_google_photos_album, label = ~htmlEscape(species_date), clusterOptions = markerClusterOptions()) 
+leaflet_bird_map <-
+  bird_map_data %>% 
+    leaflet() %>%
+    addTiles() %>%
+    addMarkers(., lng = ~lon, lat = ~lat, popup = ~picture_url_google_photos_album,
+               label = ~htmlEscape(species_date),
+               clusterOptions = markerClusterOptions()) 
+
+widgetframe::frameWidget(leaflet_bird_map)
+
 
 ```
 
