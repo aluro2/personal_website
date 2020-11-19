@@ -25,7 +25,6 @@ library(DT)
 library(stringr)
 library(plotly)
 library(lubridate)
-library(widgetframe)
 
 survey_data_paths <-
   list.files("Data", "UIUC_bird_survey_data_backup", full.names = TRUE)
