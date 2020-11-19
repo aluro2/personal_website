@@ -1,0 +1,631 @@
+year,month,month_day,date_mm_dd_yyyy,any_birds_found_on_route_shift,route_shift,route_name,building_name,building_face_direction,species,found_dead_alive,picture_url_google_photos_album
+2017,10,2017-10-23,2017-10-23,NA,AM,Other (explain in notes),Undergraduate Library_99,West,NA,Dead,NA
+2018,10,2018-10-24,2018-10-24,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-10,2019-09-10,Yes,AM,Other (explain in notes),Morrill Hall_242,North,Black-and-white Warbler_Mniotilta varia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOO19mJJQviqlZRGxXF4gDFKDuXikiiWBIoBr7C?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-11,2019-09-11,Yes,AM,Other (explain in notes),Education Building_160,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPOIK4rT8IhHsVwhu6TVv_TQaUMMD36SJWBJCDc?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,No,AM,Main Quad,Center for Wounded Veterans in Higher Education_1494,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,AM,Main Quad,Illini Union Bookstore_106,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,AM,Main Quad,Main Library Bicycle Parking Shelter_1551,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,AM,Main Quad,Chemistry Annex_10,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,AM,Main Quad,Chemical & Life Sciences Laboratory_70,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,AM,Main Quad,Morrill Hall_242,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Beckman Institute_228,North,Scarlet Tanager_Piranga olivacea,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP1ZY7u2IKQGl-JSRViNlDK0wSFR7w9IQ9fAEGl?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Grainger Engineering Library Information Center_324,South,Common Yellowthroat_Geothlypis trichas,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOIxrNdwN8qtqJNDQbbc9yHkpBAerY4b6vr6XJP?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Electrical and Computer Engineering_409,South,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPLY-Jsq-alB1pK4P7QcRHvF1Jp2NY2bXCKifMJ?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Electrical and Computer Engineering_409,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPp0ROFeW8jVzdUudhXikUfeo7ZvZFDLm4lI4k8?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Electrical and Computer Engineering_409,South,Black-and-white Warbler_Mniotilta varia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOOH1vwN5vPP_SemmtBhqfPwTVsY7rWaFrrlJnc?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipM-gJFY2eMQxofPbTZ1ekfS97o1N3U7UuRJWQ1c?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Beckman Institute_228,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPOpAF86a93fYUYDXUDWs1cFzUAvjVbP240Pcc4?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Beckman Institute_228,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP7qiOcUl6lGAHH6RSZAjnP-6bq6CREKZJCTvh5?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,North Quad,Grainger Engineering Library Information Center_324,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMX5Kkoobd9cpgQfyy-6DK0-jVzg-i7tJhYsSXR?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNqNUlOsZGF3ue7JqgPRqt8goEkbs2hJq0vmIJ8?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,North,Northern Parula_Setophaga americana,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNI7mW6fhErTUcQedIefxQoJL_DRfHerZHChBdN?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMo3vXFAa6znS8ahEE74ggDkPsJu9IYu58kthxq?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMwaW6SqRJvHTOeIrZ_ukNW4RQF011OiPh6g6oJ?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Electrical and Computer Engineering_409,South,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMZCVvUYK_RTxp7yOGEGwL6hCESkeatknRxFNGk?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,NA,Dead,NA
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,"American Redstart_Setophaga ruticilla
+",Dead,Male redstart found in freezer -ABL
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPz2u60T9bp_nc89C5qKRylzMzKGJ0sVg9ZUc5V?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP1YelqYkmsKFPDAGGsjTmcxyI5usp6DUAVjmLr?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOgZjuQZHCD1dVJzic_QW9RLx5B_zgghiropnym?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNCo90miyFHfpiDBiUVv5QybHBC_oezkFIuRK35?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPFO3IFNMWfVlYyvRKRr8wq8lVWWlRkAPaxSp5Y?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMRLpzdnMG08s7zEQUgh1aGF-R3auW-1dsmicCm?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipO5USsUXBQzhwuy2hA06_WeSRW0BjqRnlRc1aJX?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipObaKu35m6pPbgg7X3-ADwma1kTHw7J6LWZ3QoP?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPEjoFYHTPO7vsPDd4EFl42ReEH2FXokXqsaGKj?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNJKwxiukE1CKQiLoTy6SB_iF1rX__HtVVeXlTZ?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN89rvlv5LlufA6kOPhPm77Kiuvj3fdm_SMBtsV?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMvZ8UsZiv-DQM0wzVp8dnTRMCvtbOdwkgFs9D2?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPgZb834vym0ieqG625l-C7OSfMLPyto34GVrEC?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPqN6P7F-5OTI8IfB5RwHLLPxNPulPHqyfK6GN3?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMHqE-U0C1JQa5tT0tJKZg7SCtsoM94wa6d2EWQ?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Golden-winged Warbler_Vermivora chrysoptera,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMgA7-lDtHs7k_6UCgiziwb5afjIQmn89Ku0yF3?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,North Quad,Electrical and Computer Engineering_409,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipO8Cwx935IolgR7uDkYcqas2-JoYMM_t0ixpq_J?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,East,Black-and-white Warbler_Mniotilta varia,Dead,https://photos.app.goo.gl/TKW1eehzwvBXSQuZ9
+2019,9,2019-09-16,2019-09-16,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,West,Red-eyed Vireo_Vireo olivaceus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOz2ZWMGDZNLZjK-ov0KNPb3d-md8n9oUBm_bQ?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-16,2019-09-16,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,North,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNaSMazStXuzP84VXE5vdAGydd6GCIKJdacD3I?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-17,2019-09-17,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOqfgd6iWipwzwjyYf9KruOHVS01AHHNgixMdSN?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR    https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPLnxAt2UWjyrfptZbWhzvuSH-Vy6oWUfOQJ0od?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMfAoJUldoD3xZqSg0gUtP6mP4b3LhKalVLtgHm?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNomIe2RM66Rpv7Kfd9YEESTjLirADCR0V9tYv3?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,AM,North Quad,Beckman Institute_228,North,Bay-breasted Warbler_Setophaga castanea,Dead,https://photos.app.goo.gl/VBhRYogpH6rPUYLq7
+2019,9,2019-09-17,2019-09-17,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMg_bewNuf8rYvTSX-01LY9J-85i5JuW6hIZTSL?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,North Quad,Electrical and Computer Engineering_409,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMz8NegxeLIOzGVvdrrTDjFV2__VnoI4qQjwrBI?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,North Quad,Electrical and Computer Engineering_409,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMqZCW0kTQqTQMbP9y7MhTm7deFdjAD3jbrgXak?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,North Quad,Micro and Nanotechnology Laboratory_237,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipONs_P3_9V6lvPp55cWNad8huheIsba5Ojei47Q?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,North Quad,Grainger Engineering Library Information Center_324,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOJ1iosJiTZgScrgOvfVBTaDEkVY9yfGll6H2lv?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,North Quad,Beckman Institute_228,South,Chestnut-sided Warbler_Setophaga pensylvanica,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPkXJF-uUyOBtEttHOGmDbC-VSN5PeDbR4r1e-N?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,North Quad,Beckman Institute_228,South,American Redstart_Setophaga ruticilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPNzKj-0vAqWuMSMSdmF6PBlxqQ8qr5U2u55YpD?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,North Quad,Micro and Nanotechnology Laboratory_237,East,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNQhV8QvFByAZdMeqhV3XGIJmCRUBCQ-LFMcPAT?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,Blackpoll Warbler_Setophaga striata,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNS0DXmWoEUMF7fVRdBpdP72qkuJzpZ7-001IA9?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipO0GG2nfBfjKS4FXxCGdqMYK9DfQqmWp0EeCKMm?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,North,Tennessee Warbler_Oreothlypis peregrina,Alive,https://photos.google.com/photo/AF1QipPiE7MqAzvNjJfNbqh5wIguVBwro2GzERGJQG7m
+2019,9,2019-09-17,2019-09-17,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOHEsjXt8H4X9VBtsd8xe-L1XsK_Waa4M4-r0s?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,South Quad,Krannert Art Museum_220,South,Red-eyed Vireo_Vireo olivaceus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNFHHssy8FKOGP1rjPwG9lmN4yBZ-Vg11YxvX0?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-17,2019-09-17,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNaB4K8j1dgnkWgFODSykeq3dGnzGF2cySf1uk?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,Yes,AM,Main Quad,Burrill Hall_138,South,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.app.goo.gl/onDqCWHxLRtVtdct5
+2019,9,2019-09-18,2019-09-18,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-18,2019-09-18,No,AM,North Quad,Siebel Center for Computer Science_563,NA,NA,NA,NA
+2019,9,2019-09-18,2019-09-18,No,AM,North Quad,North Campus Parking Deck_1094,NA,NA,NA,NA
+2019,9,2019-09-18,2019-09-18,No,AM,North Quad,Beckman Institute_228,NA,NA,NA,NA
+2019,9,2019-09-18,2019-09-18,Yes,AM,North Quad,Coordinated Science Laboratory_148,West,Golden-winged Warbler_Vermivora chrysoptera,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMFSacOktqoLCahqbgtH_Z2JAxWN_876YqgT6BB?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,Yes,AM,North Quad,Electrical and Computer Engineering_409,East,Brown Thrasher_Toxostoma rufum,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOrsGXFHpQVot0mvD2jnkQWVooOLvzvfqDCnbyq?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,East,Yellow Warbler_Setophaga petechia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMxzIwp-s4Jg7sko90lcrDXisrnlA1x_Q70w-hG?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,No,AM,North Quad,Grainger Engineering Library Information Center_324,NA,NA,NA,NA
+2019,9,2019-09-18,2019-09-18,No,AM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,NA,NA,NA,NA
+2019,9,2019-09-18,2019-09-18,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOVW9JL8NIGhvpMm14XUJaVq9zKBF44o7qDLORW?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,Yes,PM,North Quad,Beckman Institute_228,South,Black-and-white Warbler_Mniotilta varia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMDG_HQs3BTUw9U01Peeu7ooGCYvCD3U3tQYAGw?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,Yes,PM,North Quad,Beckman Institute_228,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOvm4sB_R4dMpRyXQ8wswdNGiNvtBSvPxTtQfQC?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,Yes,PM,North Quad,Beckman Institute_228,South,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNDI9DZbuxHFn1cmCNuIrgMXCwnUKMF8NgOLZSH?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,Yes,PM,North Quad,Electrical and Computer Engineering_409,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMZsiy3Z_x3emA8LodxYITOKl0L60c5qeEwJYiT?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-18,2019-09-18,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,South,Unidentifiable,Dead,https://photos.app.goo.gl/v5Wg1SHGBm1rNdeg9
+2019,9,2019-09-18,2019-09-18,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,South,Acadian Flycatcher_Empidonax virescens,Alive,https://photos.app.goo.gl/4dkVRrVvFXx85tZY9; https://photos.app.goo.gl/wS9AYeEHnX5xVyLi9
+2019,9,2019-09-18,2019-09-18,Yes,AM,South Quad,Business Instructional Facility_1206,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/SVCgj1cdb5nwB3gcA; https://photos.app.goo.gl/LtvAaTgVha4ummTR6
+2019,9,2019-09-18,2019-09-18,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/Fbx9j8319mZ9Cvsr6
+2019,9,2019-09-18,2019-09-18,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-19,2019-09-19,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-19,2019-09-19,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-19,2019-09-19,No,AM,Main Quad,"Center for Wounded Veterans, IGB, Morill, Chem+Life Sciences",NA,NA,NA,NA
+2019,9,2019-09-19,2019-09-19,Yes,AM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN0f4iU8YDUEU2kmchwAwxZjBHd-JoSLkMAgG78?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-19,2019-09-19,Yes,PM,North Quad,Electrical and Computer Engineering_409,South,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN0yDcuExIBuMjNIz2fOSMrMrqfSb-cQ9Z-kaZ7?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-19,2019-09-19,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-19,2019-09-19,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,West,Yellow-rumped Warbler_Setophaga coronata,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNv118ANduTgpnCCWhPx-wN_rWWHPpfl4msCQQx?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-20,2019-09-20,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-20,2019-09-20,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-20,2019-09-20,Yes,PM,North Quad,Beckman Institute_228,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOjiKvw_RZVDJdKKQoLffeDR8H-tPD3oGNQ2zzG?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-20,2019-09-20,Yes,PM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNnSJ8TBnBjyyaEI6DLeIMsOEqfapp--Uve250Q?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-20,2019-09-20,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Bay-breasted Warbler_Setophaga castanea,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOgGvn27YryCaVQNUUqXWGortCV7fbjhrr7N0R7?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-20,2019-09-20,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOHA0lNNCS_s1UU-qwt6j3yugEehK5_XLLnaBbI?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-20,2019-09-20,Yes,PM,North Quad,Electrical and Computer Engineering_409,South,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNUZOzJeGvIQuQnP8wCY3kHs6BpioeNM69f8j12?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-20,2019-09-20,Yes,PM,North Quad,Electrical and Computer Engineering_409,South,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP1qQ1gdiRzQZE1qssMWiQsIzye938I-kiqkeAl?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-20,2019-09-20,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,Wilson's Warbler_Cardellina pusilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipO1WVBbXt6IPQC8cEB7tygAS_cJNNp6IIx6T_hp?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-20,2019-09-20,Yes,PM,South Quad,Law Building_156,South,Blackpoll Warbler_Setophaga striata,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN-PCH1Udp9t60GuyzTHxHaLNUb3xb3S71Cs9Wt?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,No,AM,Main Quad,All buildings of route,NA,NA,NA,NA
+2019,9,2019-09-21,2019-09-21,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPjrGCSkidT98w8O1h7edH1dmuQ5alnrJQhb6o9?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,Yes,AM,North Quad,Digital Computer Laboratory_210,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMfsuoQK3ZQ9WpmfDXD77IzDv7sJAbMBO7aDbHr?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,Yes,AM,North Quad,Newmark Civil Engineering Building_24,East,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMa76fjdYfrufBVtqgLiveOvaC4rhYZUlrtUK9W?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,Yes,AM,North Quad,Grainger Engineering Library Information Center_324,North,American Robin_Turdus migratorius,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOb7obI29XZZpATt4mcYY8dXbSSFtR6TLmknP8e?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,Yes,AM,North Quad,Beckman Institute_228,West,Bay-breasted Warbler_Setophaga castanea,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPBtei0CskIBk9Qwk3jnoaaEwWaMnexKoj57zIy?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,North,Bay-breasted Warbler_Setophaga castanea,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNbFdONGNgvrUMgj_2I8fh0YV4H0jBpvCmbRe-R?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,Yes,AM,North Quad,Coordinated Science Laboratory_148,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMtK7QYGmPJJGHDboiFlmF0XySdcUrODKvecgeE?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,Yes,PM,North Quad,Beckman Institute_228,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMQ9h8ET25vUlzxlDVne5o8iR0Hu6pSV68CQydb?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-21,2019-09-21,No,AM,South Quad,All buildings of route,NA,NA,NA,NA
+2019,9,2019-09-21,2019-09-21,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-22,2019-09-22,Yes,AM,Main Quad,Chemistry Annex_10,North,thrush sp.,Dead,https://photos.app.goo.gl/6qZwxmQoxb2w16sRA
+2019,9,2019-09-22,2019-09-22,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-22,2019-09-22,Yes,AM,North Quad,North Campus Parking Deck_1094,North,Bay-breasted Warbler_Setophaga castanea,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNosCAsXA5QIx-Gms3Tf6dgpGX59u4IOjapXFvs?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-22,2019-09-22,Yes,AM,North Quad,Beckman Institute_228,South,Indigo Bunting_Passerina cyanea,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP8azHSAGAkznwcKDMpUnTTOcnHDRN7P9IqDpoU?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-22,2019-09-22,Yes,AM,North Quad,Beckman Institute_228,West,Chestnut-sided Warbler_Setophaga pensylvanica,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMuV3hXKbNPKRBn9gGUmgBTd1xQ3OcpI-A_PHXk?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-22,2019-09-22,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-22,2019-09-22,Yes,AM,Other (explain in notes),Agricultural Engineering Sciences Building_8,West,Unidentifiable,Dead,https://photos.app.goo.gl/M2eFndapRVGdUZmW9
+2019,9,2019-09-22,2019-09-22,No,AM,South Quad,All buildings of route,NA,NA,NA,NA
+2019,9,2019-09-22,2019-09-22,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-23,2019-09-23,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-23,2019-09-23,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-23,2019-09-23,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-23,2019-09-23,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-23,2019-09-23,No,AM,South Quad,All buildings of route,NA,NA,NA,NA
+2019,9,2019-09-23,2019-09-23,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-24,2019-09-24,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-24,2019-09-24,Yes,PM,Main Quad,Center for Wounded Veterans in Higher Education_1494,East,NA,Dead,NA
+2019,9,2019-09-24,2019-09-24,Yes,PM,Main Quad,Morrill Hall_242,West,Unidentifiable,Dead,NA
+2019,9,2019-09-24,2019-09-24,Yes,PM,North Quad,National Center for Supercomputing Applications_564,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNxAigTpQrs5SC5rAhp-JY9ADX3yzdUNxMXn8U1?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-24,2019-09-24,Yes,PM,North Quad,Beckman Institute_228,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOgr3v5wk-0-zbD_uixhpWyH9QddeCMTQ3M1pAn?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-24,2019-09-24,Yes,PM,North Quad,National Center for Supercomputing Applications_564,North,Orange-crowned Warbler_Oreothlypis celata,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNF_lhLSsIvqin49FE_ceE_8RQinmMYbjCCh_5b?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-24,2019-09-24,Yes,AM,South Quad,Business Instructional Facility_1206,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMBzAGuMqx0Vo3TOlcPRKpQeCxT5-CzIVMFOOYV?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-24,2019-09-24,Yes,NA,South Quad,Education Building_160,West,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPYwIMOjnulu75bPwzYTbYBDolLWKbFydfiJwYV?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-25,2019-09-25,Yes,AM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/4g4vv295oJyzDWmc9
+2019,9,2019-09-25,2019-09-25,Yes,AM,North Quad,Siebel Center for Computer Science_563,East,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOVonMo_UYY5YzZq6KOzID9rHbY5Q66lrJKzC5p?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-25,2019-09-25,No,AM,North Quad,North Campus Parking Deck_1094,NA,NA,NA,NA
+2019,9,2019-09-25,2019-09-25,No,AM,North Quad,Beckman Institute_228,NA,NA,NA,NA
+2019,9,2019-09-25,2019-09-25,No,AM,North Quad,Coordinated Science Laboratory_148,NA,NA,NA,NA
+2019,9,2019-09-25,2019-09-25,No,AM,North Quad,Electrical and Computer Engineering_409,NA,NA,NA,NA
+2019,9,2019-09-25,2019-09-25,No,AM,North Quad,Micro and Nanotechnology Laboratory_237,NA,NA,NA,NA
+2019,9,2019-09-25,2019-09-25,No,AM,North Quad,Grainger Engineering Library Information Center_324,NA,NA,NA,NA
+2019,9,2019-09-25,2019-09-25,No,AM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,NA,NA,NA,NA
+2019,9,2019-09-25,2019-09-25,Yes,AM,Other (explain in notes),Chemical & Life Sciences Laboratory_70,West,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNxdBsfhFbcfP-vyhRtIkuypn_dP0n0FuiouVV6?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-25,2019-09-25,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Nashville Warbler_Oreothlypis ruficapilla,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNDacM9hpZ-BEDOpzAZH7h_exh4cfYF06VZHSzF?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-25,2019-09-25,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-26,2019-09-26,Yes,AM,Main Quad,Library_41,South,Blackburnian Warbler_Setophaga fusca,Dead,https://photos.app.goo.gl/jSVkKqHdoW39Zhc79
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Tennessee Warbler_Oreothlypis peregrina,Dead,Will add later
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Roger Adams Laboratory_116,North,Tennessee Warbler_Oreothlypis peregrina,Dead,Will add later
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,West,Swainson's Thrush_Catharus ustulatus,Dead,Will add later
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,West,Unidentifiable,Dead,Will add later
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,North,American Redstart_Setophaga ruticilla,Dead,Will add later
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead,Will add later
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Tennessee Warbler_Oreothlypis peregrina,Dead,Will add later
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Chemistry Annex_10,North,Swainson's Thrush_Catharus ustulatus,Dead,Will add later
+2019,9,2019-09-26,2019-09-26,Yes,PM,Main Quad,Illini Union Bookstore_106,NA,Unidentifiable,Dead,NA
+2019,9,2019-09-26,2019-09-26,Yes,PM,North Quad,Coordinated Science Laboratory_148,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP_5__VkDdeG2jVaakIxRptYULYnqnvmCNyaBNy?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-26,2019-09-26,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipODkB9QRf62ZQA1lADRiQzsRZqA_rBeLqu8AFxo?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-26,2019-09-26,Yes,PM,North Quad,Beckman Institute_228,South,House Wren_Troglodytes aedon,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPxzR8a5nPBpCFkUJlv_lfkAHTa19T6BTlgC8e9?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-26,2019-09-26,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNf3xX5M426WIlILeAXn4KlDPN5mM8HTydh1Ojh?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-26,2019-09-26,Yes,AM,South Quad,Business Instructional Facility_1206,South,Common Yellowthroat_Geothlypis trichas,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMWkdBfxMjdF57261XVHCRv8uemWbgEc6svIDAC?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-26,2019-09-26,Yes,AM,South Quad,Krannert Art Museum_220,South,House Wren_Troglodytes aedon,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNNmznldHTKiUwH9a0cJV9KlCT77UZNw-15BpnK?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-26,2019-09-26,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-27,2019-09-27,Yes,AM,Main Quad,Krannert Center for Performing Arts_52,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNgrGLuA8FrktGWtt4wGI01Y0GhOK4demJZuEWl?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-27,2019-09-27,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-27,2019-09-27,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-27,2019-09-27,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-27,2019-09-27,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-27,2019-09-27,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,East,Acadian Flycatcher_Empidonax virescens,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP0nrX09j451p5jvahPFnbhnj__OE6FWjsMJDzD?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-27,2019-09-27,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-28,2019-09-28,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Orange-crowned Warbler_Oreothlypis celata,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPTCgqUWi8dJT19cZxAS_H42fXFycZGcpLAMI0m?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-28,2019-09-28,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP8TqnKJhH9NSKQSttCVH8JuidId5h_n0bhJ1R-?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-28,2019-09-28,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-28,2019-09-28,Yes,AM,North Quad,National Center for Supercomputing Applications_564,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPFtXoFpHEOYmJTe99JXeyzy-ckgNxmKhLc2xV6?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-28,2019-09-28,Yes,AM,North Quad,North Campus Parking Deck_1094,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPPZvp9o_7PTfeqZehT66klATaa-2yQJKNcdxjh?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-28,2019-09-28,Yes,AM,North Quad,Beckman Institute_228,South,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNyPdis8rhVpmbNrfkcF5QvBYlnNkrCYEYVWy2d?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-28,2019-09-28,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOTvI74p3m5-MPYmPU1qGRot-xwaq-qqS-BfLJo?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-28,2019-09-28,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-28,2019-09-28,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-29,2019-09-29,Yes,PM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,North,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.app.goo.gl/7YYMxYKWEu9mAjv46
+2019,9,2019-09-29,2019-09-29,Yes,AM,North Quad,Beckman Institute_228,North,Red-eyed Vireo_Vireo olivaceus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOx8bHOfu4e6pAQP24GCm0XeHj0xW8hazDq25Qq?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,Yes,AM,North Quad,Beckman Institute_228,South,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMd8_vcotnmS_JXT_1I9uQ1sWAaP3KwkTCPqMOE?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,Yes,AM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPLvzLWAEEMXJD8QHwkvA6WLpEN1fvYQfJsssfi?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,Yes,AM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOuMVQM8amILevdDQ5yfpRse5v9N0zJXodACaid?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,Yes,AM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNijJV7T_L0zGM8h9n5q722ZxJQI_ocCq9uaHme?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,Yes,AM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP52Fdr5FDyJe9XkoG0mLloRnuriBVpZZ58E4ju?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-29,2019-09-29,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipM6kURF4wPTpFp9-qJ0AJbr_nN84iCPYmHRD5ck?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,Yes,AM,South Quad,Law Building_156,North,Magnolia Warbler_Setophaga magnolia,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMO91_LZZEkFlk7Q7pDmw402x58yVfoj4Q0r6LJ?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Black-and-white Warbler_Mniotilta varia,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP8RlshrMj53YTPeukxvdcng29PEUfAxXnxB3Fc?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-29,2019-09-29,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-30,2019-09-30,Yes,AM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Gray Catbird_Dumetella carolinensis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOnHp2kzCswCoVRtde3PSBKg2C6dtrMFXlMNwZi?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-30,2019-09-30,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-30,2019-09-30,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-30,2019-09-30,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,Black-and-white Warbler_Mniotilta varia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP2h-Muk8GJpUuow-d-ER7j8Ki-S1jXshvOG6w1?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,9,2019-09-30,2019-09-30,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,9,2019-09-30,2019-09-30,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-01,2019-10-01,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-01,2019-10-01,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-01,2019-10-01,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-01,2019-10-01,Yes,PM,North Quad,Beckman Institute_228,North,Blackpoll Warbler_Setophaga striata,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPuXrbYXwAkMYbV-I3w1_dtA4l2EgeQMvgDRZsO?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-01,2019-10-01,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNir3B2Qkgsd0c42j1Z_hMK8hAx5t8wP_FMNN1-?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-01,2019-10-01,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-01,2019-10-01,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,East,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN6XhZVGC7q7FRI8pWT3AtU6j_nsDxp_OYe3uGT?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-02,2019-10-02,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-02,2019-10-02,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-02,2019-10-02,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-02,2019-10-02,Yes,PM,North Quad,Beckman Institute_228,East,American Redstart_Setophaga ruticilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOF2x6gMypmHl6dqAoopMD9k5n1WZkan--wbAqd?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-02,2019-10-02,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOby_6dmD5CQfvwJca5TNjFxlH-LYHR_l5yi2XP?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-02,2019-10-02,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-02,2019-10-02,Yes,AM,South Quad,Law Building_156,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNRK8QyTTIvFdvhSsSRwC69eKkDFMZ7jIbZuU7Q?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-02,2019-10-02,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOGZOWQdyuvtPwRuMF0zo7VdANwfTZ5poeNppN6?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,Yes,PM,Main Quad,Chemistry Annex_10,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPYbg0rpiVpRYVGRwsWhjO1aRY7p00RbKHL7B-p?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-03,2019-10-03,Yes,AM,North Quad,Electrical and Computer Engineering_409,North,House Wren_Troglodytes aedon,Alive,NA
+2019,10,2019-10-03,2019-10-03,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,East,Common Yellowthroat_Geothlypis trichas,Alive,Will post in 24 hours
+2019,10,2019-10-03,2019-10-03,Yes,AM,North Quad,Beckman Institute_228,East,Black-throated Green Warbler_Setophaga virens,Alive,Will post in next 24 hours
+2019,10,2019-10-03,2019-10-03,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-03,2019-10-03,Yes,AM,Other (explain in notes),Beckman Institute_228,East,Tennessee Warbler_Oreothlypis peregrina,Dead,Will post in 24 hours
+2019,10,2019-10-03,2019-10-03,Yes,AM,Other (explain in notes),Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPxCeYVhhWDARgrobkOUJAVZuLR0mgtcyxMfjZz?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,Yes,AM,Other (explain in notes),Beckman Institute_228,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMO4vVIhj2gxeNG2DsrDksZsnoNMyYxTuuZPjql?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,Yes,AM,Other (explain in notes),Beckman Institute_228,South,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNpE1Gnjj9kRpgPNyQMZNowzVaVg0egUoL6SHRk?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,Yes,AM,Other (explain in notes),Beckman Institute_228,South,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPy4uLyeMrsarQLBzDZ98_SEsrkCJEHiZ2l74Wc?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,Yes,AM,Other (explain in notes),Beckman Institute_228,North,American Redstart_Setophaga ruticilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipO_tIq4gX2KlMONNXN6I7aBSs9MWhQJ1_U3jP0d?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,Yes,PM,Other (explain in notes),Beckman Institute_228,South,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNBSlxuu5mpADg7WQmPnjY36Z84t2EHsbifrIrI?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,Yes,AM,South Quad,"ACES Library, Information & Alumni Center_377",North,Song Sparrow_Melospiza melodia,Alive,Flew away before I could get a good photo
+2019,10,2019-10-03,2019-10-03,Yes,PM,South Quad,Business Instructional Facility_1206,South,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNV8to9eOZDR8u1liv_PjMBmSh_Exf9Bj1ig0xS?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-03,2019-10-03,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,East,Black-and-white Warbler_Mniotilta varia,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipODNNPQhDsAwpN0WyiCiYcmVUaMmeZVGWkibbqS?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-04,2019-10-04,Yes,PM,Main Quad,Illini Union Bookstore_106,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPBgu5VeWO-TVYU3VblVOgweTv-rjBZw4sewvKk?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-04,2019-10-04,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-04,2019-10-04,Yes,AM,North Quad,Beckman Institute_228,North,Gray Catbird_Dumetella carolinensis,Dead,Will post
+2019,10,2019-10-04,2019-10-04,Yes,AM,North Quad,Beckman Institute_228,South,Nashville Warbler_Oreothlypis ruficapilla,Alive,will post
+2019,10,2019-10-04,2019-10-04,Yes,AM,North Quad,Siebel Center for Computer Science_563,North,House Wren_Troglodytes aedon,Alive,NA
+2019,10,2019-10-04,2019-10-04,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-04,2019-10-04,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Unidentifiable,Alive,https://photos.google.com/photo/AF1QipPTSRjiXXHyqbQxx4eESolw0HuX73ClvQ7jFNTa
+2019,10,2019-10-04,2019-10-04,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Palm Warbler_Setophaga palmarum,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNhPzEbgz1AorqPr-YgL4OTvqjBSFyuFSGP--S9?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-04,2019-10-04,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-05,2019-10-05,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-05,2019-10-05,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNSKC5BXrlxyO4qkYU8O7oINOxAS5pKNUiFaB0a?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-05,2019-10-05,Yes,AM,North Quad,Siebel Center for Computer Science_563,West,Unidentifiable,Alive,NA
+2019,10,2019-10-05,2019-10-05,Yes,AM,North Quad,Siebel Center for Computer Science_563,North,White-throated Sparrow_Zonotrichia albicollis,Alive,https://photos.google.com/photo/AF1QipNXJo2hbfmlmTBiZgeg9DhiX3e2RawhpAhTz4rZ
+2019,10,2019-10-05,2019-10-05,Yes,PM,North Quad,Beckman Institute_228,East,Dark-eyed Junco_Junco hyemalis,Dead,https://photos.google.com/photo/AF1QipNp1jdA31XW6ZmKTrQj6tHv0623IqLEVfG-mQRA
+2019,10,2019-10-05,2019-10-05,Yes,PM,North Quad,Beckman Institute_228,East,Blue-headed Vireo_Vireo solitarius,Dead,https://photos.google.com/photo/AF1QipNJGkFy4da8lnpZTLJ7HKAtZ-BnMRYCkWhjZt5v
+2019,10,2019-10-05,2019-10-05,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,North,Common Yellowthroat_Geothlypis trichas,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipO8txvrbuZjJphWUqWA7jQg1Mfaz-vViAb6frxB?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-05,2019-10-05,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-06,2019-10-06,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-06,2019-10-06,Yes,PM,North Quad,National Center for Supercomputing Applications_564,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMKMJUGtyjeN6CH8iYiWZK68l8sUbuwEKtIU83g?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-06,2019-10-06,Yes,PM,North Quad,Beckman Institute_228,East,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOY9RgvsXKCe4_3MJc32hzj9KFjXMIa2WYVrZiW?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-06,2019-10-06,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMbolNuOlFcY32Fm1E28edQps5cRKlLq7DsOEXx?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-06,2019-10-06,Yes,AM,North Quad,Coordinated Science Laboratory_148,West,Unidentifiable,Dead,https://photos.google.com/u/1/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP3uD-E0X8KNw2C_PEu_gBGspSSEEueTCYsUeMH?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-06,2019-10-06,Yes,AM,North Quad,Grainger Engineering Library Information Center_324,South,Yellow-rumped Warbler_Setophaga coronata,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPFqRtOsJAl8LRvaXCdmKqVLz8L_951wbWVkSva?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-06,2019-10-06,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-06,2019-10-06,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-07,2019-10-07,Yes,AM,Main Quad,Morrill Hall_242,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPeZ1GReExnd9LAxXOIxaq_trkvyO9JtF8LnWHd?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-07,2019-10-07,Yes,PM,Main Quad,Morrill Hall_242,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOz1LdU-wua8HnVSfmMnHH-d36uTaAkHSaiHMNa?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-07,2019-10-07,Yes,PM,N/A,Newmark Civil Engineering Building_24,East,Common Yellowthroat_Geothlypis trichas,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPCaEAiED3iqP5UkHbMVp6Px0yL5si5q3_mpcG4?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-07,2019-10-07,Yes,PM,North Quad,Coordinated Science Laboratory_148,North,American Redstart_Setophaga ruticilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMGkNtgLCri4c4aDrMqGRoe4Gf9bnoz7hjVdeSk?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-07,2019-10-07,Yes,PM,North Quad,Newmark Civil Engineering Building_24,North,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNfYDVAybUm_lFEzEwJe64y78Kb9cQOxKj7geu9?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-07,2019-10-07,Yes,AM,South Quad,Business Instructional Facility_1206,South,Yellow-rumped Warbler_Setophaga coronata,Alive,NA
+2019,10,2019-10-07,2019-10-07,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-08,2019-10-08,Yes,AM,Main Quad,Chemistry Annex_10,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOm2_M9No9E1y7q2CvAUtwIvEZytniVVKNj-o9b?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-08,2019-10-08,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Tennessee Warbler_Oreothlypis peregrina,Dead,will add later
+2019,10,2019-10-08,2019-10-08,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Alive,will add later
+2019,10,2019-10-08,2019-10-08,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,North,Golden-winged Warbler_Vermivora chrysoptera,Dead,will add later
+2019,10,2019-10-08,2019-10-08,Yes,PM,Main Quad,Morrill Hall_242,East,Black-throated Green Warbler_Setophaga virens,Dead,will add later
+2019,10,2019-10-08,2019-10-08,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-08,2019-10-08,Yes,AM,North Quad,Coordinated Science Laboratory_148,West,Unidentifiable,Dead,https://photos.google.com/u/1/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMhEiUD72TQ9COh8HX42x45XM8yEJwAljCfWlZ7?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-08,2019-10-08,Yes,PM,North Quad,Siebel Center for Computer Science_563,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipM_nZtAMtHEesBAhaE0bFqP3uEfs8oJ449xv7BY?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-08,2019-10-08,Yes,PM,North Quad,North Campus Parking Deck_1094,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOb0bXagaK_fd1-Od7hUKBN-EcL8uxNzxhx0Tdd?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-08,2019-10-08,Yes,PM,North Quad,Beckman Institute_228,West,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOIbrq3xRCmLspmMmPQLbo04QKKb-4qVjgGVjCH?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-08,2019-10-08,Yes,PM,North Quad,Beckman Institute_228,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOp8HKZrCG4l0gQ3sNxAK6pYrfNqQ_6VEWK6mln?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-08,2019-10-08,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPkm5jLEzI0zBZY9NvGuc-16B_KMEef3lrTVzql?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-08,2019-10-08,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-08,2019-10-08,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,East,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOt14jlF7pEceVAQJo2OcysH6YA53kPQjxTq2Cw?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-09,2019-10-09,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-09,2019-10-09,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/u/1/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipORU9L4JBiDJJITZ_ZK6ZpO1jJv8Juh-GLQDByk?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-09,2019-10-09,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-09,2019-10-09,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-09,2019-10-09,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-10,2019-10-10,Yes,AM,Main Quad,Morrill Hall_242,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMg26AExOgMxNTL9jX7onZtRN9P5HWce67x0MuM?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-10,2019-10-10,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-10,2019-10-10,Yes,PM,North Quad,Electrical and Computer Engineering_409,East,Unidentifiable,Dead,https://photos.google.com/u/1/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipO45RL1hag5kNm0yXwzRUX6gpvFgVbQmF5HvvCW?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-10,2019-10-10,Yes,AM,North Quad,North Campus Parking Deck_1094,North,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,NA
+2019,10,2019-10-10,2019-10-10,Yes,AM,North Quad,Beckman Institute_228,West,Scarlet Tanager_Piranga olivacea,Alive,NA
+2019,10,2019-10-10,2019-10-10,Yes,AM,South Quad,Business Instructional Facility_1206,South,Lincoln's Sparrow_Melospiza lincolnii,Alive,Flew away before I could get a photo
+2019,10,2019-10-10,2019-10-10,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,North,Black-throated Green Warbler_Setophaga virens,Dead,https://photos.google.com/photo/AF1QipNYuLHrmlmbbYg1COuRxt87WiWzfcwIg9SZlRTq
+2019,10,2019-10-10,2019-10-10,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,East,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN1xSoDU3kzuKKGGx2c-GyNxg0pV1FajrApEE7G?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-11,2019-10-11,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-11,2019-10-11,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-11,2019-10-11,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-12,2019-10-12,No,PM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-12,2019-10-12,Yes,PM,North Quad,Coordinated Science Laboratory_148,North,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.google.com/u/1/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP1pXjF2n-AcU5D9kO8Yo-EQlm_5myqNcByeooz?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-12,2019-10-12,Yes,AM,North Quad,Beckman Institute_228,North,Nashville Warbler_Oreothlypis ruficapilla,Alive,https://photos.google.com/photo/AF1QipMQ1yZijv7sQiokssqlWRexiaxUr6MuZwwGuZiQ
+2019,10,2019-10-12,2019-10-12,Yes,PM,North Quad,Beckman Institute_228,East,Northern Flicker_Colaptes auratus,Dead,https://photos.google.com/photo/AF1QipPyRIe6vdHG2SYIiY6Xtc6u1UOXPBwcdurUYzjf
+2019,10,2019-10-12,2019-10-12,Yes,PM,North Quad,North Campus Parking Deck_1094,North,Black-throated Green Warbler_Setophaga virens,Alive,NA
+2019,10,2019-10-12,2019-10-12,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,East,Black-throated Green Warbler_Setophaga virens,Alive,NA
+2019,10,2019-10-12,2019-10-12,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-13,2019-10-13,No,AM,Main Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-13,2019-10-13,Yes,PM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.app.goo.gl/x1Z5sgZP4bVh2VxT6
+2019,10,2019-10-13,2019-10-13,Yes,PM,Main Quad,Foreign Languages Building_172,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.app.goo.gl/LPjnn44ZQzd2e5LUA
+2019,10,2019-10-13,2019-10-13,Yes,PM,Main Quad,Foreign Languages Building_172,East,Warbler,Dead,https://photos.app.goo.gl/VzVTscsQ8TxAjh4Q6
+2019,10,2019-10-13,2019-10-13,Yes,PM,North Quad,Beckman Institute_228,East,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMpizfZfGCgZeYqBhqBx7aQCV0fw-PDy01p5DTN?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-13,2019-10-13,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-13,2019-10-13,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-13,2019-10-13,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2019,10,2019-10-14,2019-10-14,Yes,AM,Other (explain in notes),Forbes Natural History Building_1073,West,Northern Waterthrush_Parkesia noveboracensis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNlm79L9rBY6Lf1CHlihBp-3kHrhav25ZhWTlId?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-14,2019-10-14,Yes,PM,Other (explain in notes),Temple Hoyne Buell Hall_339,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMvgU8Vy4v2y6sWdt65AOI4P7tud3EyxUt0PItq?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-14,2019-10-14,Yes,PM,Other (explain in notes),Beckman Institute_228,West,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNZnZo94VPXrds9LBAhoBvApD3LsY6TyUS093NK?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-14,2019-10-14,Yes,PM,Other (explain in notes),Beckman Institute_228,West,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMOF_TcYxpLDI4bIJcYZ9BSIuJSjGB5XMPsoUkv?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-15,2019-10-15,Yes,AM,North Quad,Beckman Institute_228,North,Black-throated Green Warbler_Setophaga virens,Alive,NA
+2019,10,2019-10-15,2019-10-15,Yes,AM,Other (explain in notes),State Farm Center_166,West,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNFks4n7bzUM-LB01b1iw6Yeczlm-tYqMbFMRib?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-15,2019-10-15,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,North,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMvgU8Vy4v2y6sWdt65AOI4P7tud3EyxUt0PItq?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+NA,NA,NA        ,NA,Yes,PM,Other (explain in notes),Beckman Institute_228,East,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPOpRXHvdYfB69RI9IKV364h5ThKtbO2wNe80Dz?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-17,2019-10-17,Yes,PM,Other (explain in notes),Agricultural Engineering Sciences Building_8,South,American Goldfinch_Spinus tristis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPJGVGjnM8wubxDx1IF75AhY78JXQQSlbf75BHx?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+NA,NA,NA        ,NA,Yes,PM,Other (explain in notes),Temple Hoyne Buell Hall_339,North,Brown Creeper_Certhia americana,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMbCWE-mnOfU_p527mNNwEaKy-vnoQs9i7_K-mw?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-17,2019-10-17,Yes,PM,Other (explain in notes),Temple Hoyne Buell Hall_339,West,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNJ_qa7JagAnpv45eGxMjunaH_VqVnpqs6qpYig?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-17,2019-10-17,Yes,AM,Other (explain in notes),Electrical and Computer Engineering_409,South,Tennessee Warbler_Oreothlypis peregrina,Dead,NA
+2019,10,2019-10-17,2019-10-17,Yes,AM,Other (explain in notes),Electrical and Computer Engineering_409,East,Swamp Sparrow_Melospiza georgiana,Dead,NA
+2019,10,2019-10-17,2019-10-17,Yes,AM,Other (explain in notes),Beckman Institute_228,West,Tennessee Warbler_Oreothlypis peregrina,Dead,NA
+2019,10,2019-10-17,2019-10-17,Yes,PM,Other (explain in notes),Beckman Institute_228,East,Northern Flicker_Colaptes auratus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMF1OJPH68MEnmlufmqQZbQNNV9uQtc3iPOXcME?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-17,2019-10-17,Yes,PM,Other (explain in notes),Beckman Institute_228,East,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPsaIRN_UqVt3MNdi0-FGJEpHy4oc2BvDY88Zs4?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-18,2019-10-18,Yes,AM,Other (explain in notes),Beckman Institute_228,West,Hermit Thrush_Catharus guttatus,Dead,NA
+2019,10,2019-10-18,2019-10-18,Yes,PM,N/A,Beckman Institute_228,West,NA,Dead,https://photos.google.com/photo/AF1QipOcMsETg5Pu260tH-_a9RxMWx714_haCTXKHnni
+2019,10,2019-10-18,2019-10-18,Yes,PM,N/A,Siebel Center for Computer Science_563,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipO6vLrGWCue4hFfwteUcejV-ZIFmpddCAXlFm25
+2019,10,2019-10-18,2019-10-18,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,North,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipO63mrJG2g0i9Szffs_P4TAHVepjWruBtMzbw_7
+2019,10,2019-10-18,2019-10-18,Yes,PM,N/A,Temple Hoyne Buell Hall_339,North,American Robin_Turdus migratorius,Dead,https://photos.google.com/photo/AF1QipNQJLxCMsOI_W3Uqim3ilDSuPCyIHUToko0Xctc
+2019,10,2019-10-18,2019-10-18,Yes,PM,N/A,Temple Hoyne Buell Hall_339,North,Golden-crowned Kinglet_Regulus satrapa,Dead,https://photos.google.com/photo/AF1QipNCcJEhAVxRs520xnEoPiEpcqLSG8kjreIpqnGp
+2019,10,2019-10-19,2019-10-19,Yes,PM,N/A,Temple Hoyne Buell Hall_339,North,NA,Alive,https://photos.google.com/photo/AF1QipO7uvalmic65NeEy4_6KfhUwmv2xHOWp6dChhWj
+2019,10,2019-10-19,2019-10-19,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,East,Brown Creeper_Certhia americana,Dead,https://photos.google.com/photo/AF1QipOz0sgQ0H4UlgYFh8EqT6vx7K9kReokOZz3jwcv
+2019,10,2019-10-19,2019-10-19,Yes,PM,N/A,Electrical and Computer Engineering_409,West,Brown Creeper_Certhia americana,Dead,https://photos.google.com/photo/AF1QipOTzEX618IE_t1pH25qg7d7yVWz2QXYfZewzZPK
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,South,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOfvvPXh1Qtd4-Ql9lwGBX1vkpXPhQj_HnJH_9w
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,South,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOfvvPXh1Qtd4-Ql9lwGBX1vkpXPhQj_HnJH_9w
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,South,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOfvvPXh1Qtd4-Ql9lwGBX1vkpXPhQj_HnJH_9w
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Beckman Institute_228,West,Blue-headed Vireo_Vireo solitarius,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPT3reNsmv7stL1EAudzDnfVtkeS31_hbIynFJC?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Beckman Institute_228,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPT3reNsmv7stL1EAudzDnfVtkeS31_hbIynFJC?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Beckman Institute_228,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPT3reNsmv7stL1EAudzDnfVtkeS31_hbIynFJC?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Beckman Institute_228,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPT3reNsmv7stL1EAudzDnfVtkeS31_hbIynFJC?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Beckman Institute_228,East,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOawdrMdzoarUXF4_LGEJxlY30blgskhuQeGtel
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Temple Hoyne Buell Hall_339,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipMKAc90dAf7HeAYv9xTTtoS-5F30FpiMmjWMdUl
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Temple Hoyne Buell Hall_339,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipNYNgTyl22ZbNSMtmqKrx23fNyUubzYjFNnDR0a
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Temple Hoyne Buell Hall_339,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipPW6OUVD6If7QM3ZyNoxA01Br5PSoA7txDzt9ns
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Temple Hoyne Buell Hall_339,North,Golden-crowned Kinglet_Regulus satrapa,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMAB8mrxHuFeq90cnXQtZuBENhiE5RZ1-tDtNp1?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Temple Hoyne Buell Hall_339,North,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipMEorfzmNPwwcDueywNlRLtGVDcFlpLGdVVPJ9m
+2019,10,2019-10-23,2019-10-23,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,North,Eastern Towhee_Pipilo erythrophthalmus,Dead,https://photos.google.com/photo/AF1QipMFySdZ6nXLNiHp__obGRGCa60-mkKLxPYtXl8b
+2019,10,2019-10-24,2019-10-24,Yes,PM,N/A,Temple Hoyne Buell Hall_339,West,White-throated Sparrow_Zonotrichia albicollis,Alive,https://photos.google.com/photo/AF1QipMJhHWgn1jCu1YutDNv3kbyxKB3FU8O77ihL3pb
+2019,10,2019-10-25,2019-10-25,Yes,PM,N/A,Beckman Institute_228,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOUbM42ach5K3w3LrlGTdkxWgCozkVhVNKdnpGr
+2019,10,2019-10-25,2019-10-25,Yes,PM,N/A,Beckman Institute_228,East,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOop544p0AK-8FUUdNGfCCy2NbPhD4SGXAmTEyF
+NA,NA,NA        ,NA,Yes,PM,N/A,Beckman Institute_228,East,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOop544p0AK-8FUUdNGfCCy2NbPhD4SGXAmTEyF
+2019,10,2019-10-25,2019-10-25,Yes,PM,N/A,Beckman Institute_228,East,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOop544p0AK-8FUUdNGfCCy2NbPhD4SGXAmTEyF
+NA,NA,NA        ,NA,Yes,PM,N/A,Beckman Institute_228,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipNmXiIzSO9Cu5tHFKj22AAE6u_CAYkopckg4BZV
+2019,10,2019-10-25,2019-10-25,Yes,PM,N/A,Beckman Institute_228,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipOiuSYFBEm4c18VGJZgy6IRSueBTCKb2rzgBE-a
+2019,10,2019-10-25,2019-10-25,Yes,PM,N/A,Beckman Institute_228,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipMlh9lFED8F-kWW9uhaxmWovwQgDqnmX13yFh4P
+2019,10,2019-10-25,2019-10-25,Yes,PM,N/A,Beckman Institute_228,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipNe_8bpeUEAVlpcKN1qkl7C0sknO6pYi0mIMxm6
+2019,10,2019-10-25,2019-10-25,Yes,PM,N/A,Beckman Institute_228,East,NA,Dead,https://photos.google.com/photo/AF1QipPWAyrRfBjUCXiDWBzG7BGExfCI9QtGZ95fPKd7
+2019,10,2019-10-25,2019-10-25,Yes,PM,N/A,Beckman Institute_228,East,White-throated Sparrow_Zonotrichia albicollis,Dead,"https://photos.google.com/photo/AF1QipMouSqkYu8gI3Xasi2VKu515nUVwjD28Nj1ADLf
+"
+2019,11,2019-11-06,2019-11-06,Yes,AM,N/A,Temple Hoyne Buell Hall_339,South,NA,Dead,https://photos.google.com/photo/AF1QipOomMeU_Sndik8P6oSOFCw8UWvSRiJ_TrPXDxJB
+2019,11,2019-11-06,2019-11-06,Yes,AM,N/A,Temple Hoyne Buell Hall_339,West,NA,Dead,https://photos.google.com/photo/AF1QipMmAf5rWFmBHkkuja0e-DO7LTYnRDaNRWKBQfzt
+2019,11,2019-11-06,2019-11-06,Yes,AM,N/A,Temple Hoyne Buell Hall_339,West,Dark-eyed Junco_Junco hyemalis,Dead,https://photos.google.com/photo/AF1QipMd9euRE9hsuCipJLct78VfBJElncABSZsiQ2WW
+2019,11,2019-11-06,2019-11-06,Yes,AM,N/A,Temple Hoyne Buell Hall_339,West,NA,Dead,https://photos.google.com/photo/AF1QipPUzIHMrJ87irS7MztnAxc6zSRJWzSQ487dI0cZ
+2019,11,2019-11-06,2019-11-06,Yes,AM,N/A,Temple Hoyne Buell Hall_339,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/photo/AF1QipM2XJgtwojKnL4E8m_DVBGj-B5vjBWL11bPzE0b
+2019,11,2019-11-11,2019-11-11,Yes,AM,N/A,Carl R. Woese Institute for Genomic Biology_1080,South,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPvF_n9D97hpuFJts_HNVQ79AeBu6E8eYKswGeK?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,11,2019-11-06,2019-11-06,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,West,American Robin_Turdus migratorius,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPM5x7kKWwKEhGHWJ5Pc_QS0i7oOR-e03eJxIR9?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,11,2019-11-06,2019-11-06,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,West,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOsOKnBPoabOlvkigJ478ksaPyxG4t8CqSTc4j8?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,11,2019-11-06,2019-11-06,Yes,PM,N/A,Agricultural Engineering Sciences Building_8,West,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMksNYO_vmsevXMrFi1xMWPAIh6d8mDFyolwqKv?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-26,2019-10-26,Yes,AM,N/A,Beckman Institute_228,South,Brown Creeper_Certhia americana,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMDJucFiWYgigu_JpHk1BVHlnWdkAPM6yeUIe8F?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-26,2019-10-26,Yes,AM,N/A,Beckman Institute_228,South,Hermit Thrush_Catharus guttatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN99A-xJsfhfNbetkknEidlaLpxD7Z-HcFzrw2d?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2019,10,2019-10-26,2019-10-26,Yes,AM,N/A,Beckman Institute_228,South,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOC9PFr-0BDk6oMhif_dyAyI8vmGdTvpHU1CpGu?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-13,2020-09-13,Yes,PM,North Quad,Beckman Institute_228,East,NA,Dead,NA
+2020,9,2020-09-14,2020-09-14,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,South,Unidentifiable,Dead,https://photos.app.goo.gl/s28mUQjwtscfCesj9
+2020,9,2020-09-14,2020-09-14,Yes,AM,South Quad,Education Building_160,West,Ovenbird_Seiurus aurocapilla,Alive,https://photos.app.goo.gl/2QLfJTU8cGMYCCydA
+2020,9,2020-09-14,2020-09-14,Yes,AM,South Quad,Law Building_156,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/w56F6piXYfqRJP7Z8
+2020,9,2020-09-14,2020-09-14,Yes,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,North,American Redstart_Setophaga ruticilla,Dead,https://photos.app.goo.gl/6iwUbtDXn1KK6mvV9
+2020,9,2020-09-14,2020-09-14,Yes,AM,Main Quad,Chemical & Life Sciences Laboratory_70,East,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/vKzEZ9MWWpwCNkCX7
+2020,9,2020-09-14,2020-09-14,Yes,PM,North Quad,Beckman Institute_228,North,Ovenbird_Seiurus aurocapilla,Dead,https://photos.app.goo.gl/XvbYfwRi6fnyPnur9
+2020,9,2020-09-14,2020-09-14,Yes,PM,North Quad,Beckman Institute_228,South,Bay-breasted Warbler_Setophaga castanea,Dead,https://photos.app.goo.gl/A8k5nja9MAsCCQnR6
+2020,9,2020-09-14,2020-09-14,Yes,PM,North Quad,Beckman Institute_228,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/GirN5xiohufDk9PY8
+2020,9,2020-09-14,2020-09-14,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,Unidentifiable,Dead,https://photos.app.goo.gl/kbDFjH474zDehjGEA
+2020,9,2020-09-14,2020-09-14,Yes,PM,North Quad,Grainger Engineering Library Information Center_324,West,Unidentifiable,Dead,https://photos.app.goo.gl/cfTLtV7ZpdriLZyY6
+2020,9,2020-09-14,2020-09-14,Yes,PM,North Quad,Grainger Engineering Library Information Center_324,North,American Crow_Corvus brachyrhynchos,Dead,https://photos.app.goo.gl/jZrKB8KL1tojDYBr6
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/1xuoWcgy3TWiywhw8
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/t9zeL6cdmCWcPjDQ9
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/QUPAs8fJo3eg7WL26
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/DD98cEqhQ5HB1aV86
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/8FmV3CEYPxPvGP7F9
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,NA
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/FE2mdRMdmqVc3QY6A
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Ovenbird_Seiurus aurocapilla,Dead,https://photos.app.goo.gl/swvxExH4kTzP7doC9
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,North,Black-throated Green Warbler_Setophaga virens,Alive,https://photos.app.goo.gl/it2AjcehFbCWVp4FA
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Coordinated Science Laboratory_148,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/JtBCnHyet91DHiwL8
+2020,9,2020-09-14,2020-09-14,Yes,AM,North Quad,Beckman Institute_228,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/bkp6McEAwJ4qw9tQ7
+2020,9,2020-09-14,2020-09-14,Yes,AM,N/A,Fred Turner Student Services Building_188,South,Chestnut-sided Warbler_Setophaga pensylvanica,Alive,https://photos.app.goo.gl/JCwhUsKLUz2tTq8MA
+2020,9,2020-09-14,2020-09-14,Yes,PM,South Quad,Integrated Bioprocessing Research Laboratory_1233,West,American Robin_Turdus migratorius,Dead,NA
+2020,9,2020-09-14,2020-09-14,Yes,PM,South Quad,Education Building_160,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/rVawzUaG13CTEaPU9
+2020,9,2020-09-15,2020-09-15,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,Blackburnian Warbler_Setophaga fusca,Dead,https://photos.app.goo.gl/cHcU1ygxwUFQzH2c8
+2020,9,2020-09-15,2020-09-15,Yes,AM,South Quad,Law Building_156,East,Red-eyed Vireo_Vireo olivaceus,Alive,https://photos.app.goo.gl/9wFneCpzLopv3sN3A
+2020,9,2020-09-15,2020-09-15,Yes,AM,North Quad,Beckman Institute_228,East,Mourning Warbler_Geothlypis philadelphia,Dead,https://photos.app.goo.gl/V3A9hYK3qwczUgVFA
+2020,9,2020-09-15,2020-09-15,Yes,AM,North Quad,Beckman Institute_228,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/dCEED3AWUgwbSh456
+2020,9,2020-09-15,2020-09-15,Yes,AM,North Quad,Beckman Institute_228,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/iXHyQNZSYtfN6ET37
+2020,9,2020-09-15,2020-09-15,Yes,PM,North Quad,Beckman Institute_228,North,Black-and-white Warbler_Mniotilta varia,Dead,Side View
+2020,9,2020-09-15,2020-09-15,Yes,PM,North Quad,Beckman Institute_228,West,Cape May Warbler_Setophaga tigrina,Dead,Side View
+2020,9,2020-09-15,2020-09-15,Yes,PM,North Quad,Beckman Institute_228,West,Magnolia Warbler_Setophaga magnolia,Dead,Side View
+2020,9,2020-09-15,2020-09-15,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,Unidentifiable,Dead,Side View
+2020,9,2020-09-15,2020-09-15,Yes,PM,North Quad,Electrical and Computer Engineering_409,South,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipM5RurNNCoQZhjItX3RGjmtH0BaHKefXJ4leMTP?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-15,2020-09-15,Yes,PM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNlrlmGu2Gs-HAP3ACRksbRHmO228bPRxybrN9e?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-15,2020-09-15,Yes,PM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNlrlmGu2Gs-HAP3ACRksbRHmO228bPRxybrN9e?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-15,2020-09-15,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,West,Bay-breasted Warbler_Setophaga castanea,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPF8cPpMQtgcY8GKgK_WL5zXYiEr8YPSZJyh3Oo?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-15,2020-09-15,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,West,Unidentifiable,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPKXWFyoL5sLJQLoO83bW_5gduoA-0j9slZHe_E?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-15,2020-09-15,Yes,PM,Main Quad,Chemical & Life Sciences Laboratory_70,West,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP-eNBwSJLRuTWr6FfmD34A1n9rTBMZ7A2DXHeN?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-15,2020-09-15,Yes,PM,North Quad,North Campus Parking Deck_1094,North,House Sparrow_Passer domesticus,Dead,https://photos.app.goo.gl/MEzu5zyZuFh2MDmC6
+2020,9,2020-09-15,2020-09-15,Yes,PM,North Quad,Beckman Institute_228,East,Bay-breasted Warbler_Setophaga castanea,Dead,Pic One  Two
+2020,9,2020-09-15,2020-09-15,Yes,PM,North Quad,Electrical and Computer Engineering_409,East,Ovenbird_Seiurus aurocapilla,Dead,Pic One Two
+2020,9,2020-09-15,2020-09-15,Yes,PM,South Quad,Business Instructional Facility_1206,South,NA,Alive,NA
+2020,9,2020-09-15,2020-09-15,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,West,NA,Dead,NA
+2020,9,2020-09-16,2020-09-16,Yes,AM,South Quad,Business Instructional Facility_1206,South,Unidentifiable,Dead,https://photos.app.goo.gl/snMemj1itUyXXrZJ7
+2020,9,2020-09-16,2020-09-16,Yes,AM,South Quad,Law Building_156,North,Bay-breasted Warbler_Setophaga castanea,Dead,https://photos.app.goo.gl/Q5CDFg1T8efhfyzg6
+2020,9,2020-09-16,2020-09-16,Yes,AM,North Quad,Beckman Institute_228,South,Magnolia Warbler_Setophaga magnolia,Dead,NA
+2020,9,2020-09-16,2020-09-16,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,North,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOFmjqW2boH3sTxXHI0Hv6DjacHNKfPTD8bUgM0?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-16,2020-09-16,Yes,PM,South Quad,Education Building_160,North,Ruby-throated Hummingbird_Archilochus colubris,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNwhP7_cr9Po_s8wIoCGq-DRwv_01tH5-YpySXP?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-16,2020-09-16,Yes,PM,South Quad,Krannert Art Museum_220,North,Tennessee Warbler_Oreothlypis peregrina,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPiBm61OaMFdHp9vd7ClZt8MRcHIbNJfrOpx8wR?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-17,2020-09-17,Yes,AM,North Quad,Siebel Center for Computer Science_563,North,Ovenbird_Seiurus aurocapilla,Dead,Will add
+2020,9,2020-09-17,2020-09-17,Yes,AM,North Quad,Beckman Institute_228,North,Gray-cheeked Thrush_Catharus minimus,Dead,NA
+2020,9,2020-09-17,2020-09-17,Yes,AM,North Quad,Beckman Institute_228,North,Red-breasted Nuthatch_Sitta canadensis,Dead,NA
+2020,9,2020-09-17,2020-09-17,Yes,AM,North Quad,Electrical and Computer Engineering_409,South,Bay-breasted Warbler_Setophaga castanea,Dead,NA
+2020,9,2020-09-17,2020-09-17,Yes,AM,Main Quad,Morrill Hall_242,West,Swainson's Thrush_Catharus ustulatus,Alive,NA
+2020,9,2020-09-17,2020-09-17,Yes,AM,North Quad,Beckman Institute_228,West,Red-eyed Vireo_Vireo olivaceus,Dead,NA
+2020,9,2020-09-17,2020-09-17,Yes,AM,North Quad,Beckman Institute_228,West,Magnolia Warbler_Setophaga magnolia,Alive,"Did not get a pic, flew upon arrival"
+2020,9,2020-09-17,2020-09-17,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,Swainson's Thrush_Catharus ustulatus,Dead,One.       Two
+2020,9,2020-09-17,2020-09-17,Yes,AM,South Quad,Law Building_156,North,Swainson's Thrush_Catharus ustulatus,Dead,1 2
+2020,9,2020-09-17,2020-09-17,Yes,PM,South Quad,Krannert Art Museum_220,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMTIwIADmt76gKX-rotpL48WGOM99_x5x0WMaY-?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-14,2020-09-14,NA,NA,NA,NA,NA,NA,NA,NA
+2020,9,2020-09-17,2020-09-17,Yes,PM,North Quad,Siebel Center for Computer Science_563,North,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/photo/AF1QipPn7X0hl-oIjAy7BuD3CQjKZ3gey-B3YUkx2TEN
+2020,9,2020-09-17,2020-09-17,Yes,PM,North Quad,North Campus Parking Deck_1094,West,Thrush (?),Dead,https://photos.google.com/photo/AF1QipPV67G0jqT7WliZ1S7MKgdsBUnU03HCBeJt2wpP
+2020,9,2020-09-17,2020-09-17,Yes,PM,North Quad,Beckman Institute_228,North,Red-breasted Nuthatch_Sitta canadensis,Dead,https://photos.google.com/photo/AF1QipOr6-WkhyUz69gjtresW3BfIlq9YBXHoGtICTJx
+2020,9,2020-09-17,2020-09-17,Yes,PM,North Quad,Coordinated Science Laboratory_148,North,Hermit Thrush_Catharus guttatus (?),Dead,https://photos.google.com/photo/AF1QipNe5e36Q3jqQNMFZFzILeEWYPgOr3780xL0zWw4
+2020,9,2020-09-18,2020-09-18,Yes,AM,North Quad,Electrical and Computer Engineering_409,South,Ovenbird_Seiurus aurocapilla,Alive,NA
+2020,9,2020-09-18,2020-09-18,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,Will add pictures
+2020,9,2020-09-18,2020-09-18,Yes,AM,North Quad,Beckman Institute_228,North,American Redstart_Setophaga ruticilla,Dead,NA
+2020,9,2020-09-18,2020-09-18,Yes,AM,North Quad,Beckman Institute_228,West,Swainson's Thrush_Catharus ustulatus,Alive,NA
+2020,9,2020-09-18,2020-09-18,Yes,AM,South Quad,Integrated Bioprocessing Research Laboratory_1233,West,Unidentifiable,Dead,https://photos.app.goo.gl/tn3HBHRKbVuVc9Z78
+2020,9,2020-09-18,2020-09-18,Yes,AM,South Quad,Business Instructional Facility_1206,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/CWyZDiPg2yUJbDoS6
+2020,9,2020-09-18,2020-09-18,Yes,AM,South Quad,Business Instructional Facility_1206,South,Nashville Warbler_Oreothlypis ruficapilla,Alive,https://photos.app.goo.gl/6LDT22JQVJFARxNx8
+2020,9,2020-09-18,2020-09-18,Yes,AM,South Quad,Law Building_156,East,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/xSdmvUyVuAeH3PaR6
+2020,9,2020-09-18,2020-09-18,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,East,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/4DeXNcgAbymBLkvR8
+2020,9,2020-09-18,2020-09-18,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/bmCsRwY8dp5VBDaFA
+2020,9,2020-09-18,2020-09-18,Yes,PM,South Quad,Education Building_160,North,Red-breasted Nuthatch_Sitta canadensis,Dead,https://photos.app.goo.gl/8uDYRuSme8kBgArs7
+2020,9,2020-09-18,2020-09-18,Yes,PM,South Quad,Education Building_160,West,Ovenbird_Seiurus aurocapilla,Dead,https://photos.app.goo.gl/1dSWf11Rz4q6dUnX7
+2020,9,2020-09-18,2020-09-18,Yes,PM,South Quad,Business Instructional Facility_1206,South,Red-breasted Nuthatch_Sitta canadensis,Dead,https://photos.app.goo.gl/pHAHynrpiePFbYxW6
+2020,9,2020-09-18,2020-09-18,Yes,PM,South Quad,Law Building_156,North,Blackpoll Warbler_Setophaga striata,Dead,https://photos.app.goo.gl/fH6P5hYBu6rs1BJ39
+2020,9,2020-09-19,2020-09-19,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,East,Ovenbird_Seiurus aurocapilla,Alive,NA
+2020,9,2020-09-19,2020-09-19,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,East,Pine Warbler_Setophaga pinus,Dead,https://photos.app.goo.gl/77MQBb35fsmmJQQU6
+2020,9,2020-09-19,2020-09-19,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead,https://photos.app.goo.gl/MFvGJavrvRBBkvMH7
+2020,9,2020-09-19,2020-09-19,Yes,AM,South Quad,Education Building_160,West,Ovenbird_Seiurus aurocapilla,Dead,https://photos.app.goo.gl/j1rn237rH5syZGdc9
+2020,9,2020-09-19,2020-09-19,Yes,AM,South Quad,Business Instructional Facility_1206,South,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.app.goo.gl/56Dxeqww899MpRJfA
+2020,9,2020-09-19,2020-09-19,Yes,AM,South Quad,Business Instructional Facility_1206,South,Chestnut-sided Warbler_Setophaga pensylvanica,Dead,https://photos.app.goo.gl/56Dxeqww899MpRJfA
+2020,9,2020-09-19,2020-09-19,Yes,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/xtXYgrT83abHWCGv7
+2020,9,2020-09-19,2020-09-19,Yes,PM,North Quad,National Center for Supercomputing Applications_564,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead,https://photos.app.goo.gl/Ujv7JR1N7CVPedjd7
+2020,9,2020-09-19,2020-09-19,Yes,PM,North Quad,National Center for Supercomputing Applications_564,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead,https://photos.app.goo.gl/SWhjCbDzEaiAo4Dd9
+2020,9,2020-09-19,2020-09-19,Yes,PM,North Quad,Beckman Institute_228,West,Scarlet Tanager_Piranga olivacea,Dead,https://photos.app.goo.gl/pvnUfXDFex5EyN1w5
+2020,9,2020-09-19,2020-09-19,NA,PM,NA,Newmark Civil Engineering Building_24,East,NA,Dead,NA
+2020,9,2020-09-19,2020-09-19,NA,PM,NA,Carl R. Woese Institute for Genomic Biology_1080,West,NA,Dead,NA
+2020,9,2020-09-19,2020-09-19,Yes,PM,South Quad,Law Building_156,North,NA,Dead,NA
+2020,9,2020-09-19,2020-09-19,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,South,NA,Dead,NA
+2020,9,2020-09-19,2020-09-19,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,West,NA,Dead,NA
+2020,9,2020-09-19,2020-09-19,NA,PM,NA,Illini Union Bookstore_106,North,NA,Dead,NA
+2020,9,2020-09-19,2020-09-19,Yes,AM,North Quad,North Campus Parking Deck_1094,North,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPZDTcFBuCTFRKLV17s1uaejhs8ib8yRLBnWlbu?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-19,2020-09-19,Yes,AM,North Quad,North Campus Parking Deck_1094,North,Nashville Warbler_Oreothlypis ruficapilla,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNG8VjVpuMKi8bXnqtFaPI_M-G024_yNh-bUImj?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-19,2020-09-19,Yes,AM,North Quad,Beckman Institute_228,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipP5xVJ06a4ar8Jip13JKGzIPnkkftimI004Fnu7?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-19,2020-09-19,Yes,AM,North Quad,Beckman Institute_228,West,Mourning Warbler_Geothlypis philadelphia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMkbQyDvtaBrBGFaOQim8qtqq92nlTzrNWf1I7E?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-19,2020-09-19,Yes,AM,North Quad,Coordinated Science Laboratory_148,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPl2JtL_Lwb3V2WCq1nNMJ6fuB7Gpt4X9PKiRBP?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-19,2020-09-19,Yes,AM,North Quad,Coordinated Science Laboratory_148,West,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMrUUwmgKLb-IBvKGhGcyscB2kGEb8OEPKphGcY?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-19,2020-09-19,Yes,AM,North Quad,Coordinated Science Laboratory_148,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNEJZ8v_6JzJqiaAVXc0En8ODpJTPWa-HFnuJ-c?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-19,2020-09-19,Yes,AM,North Quad,Electrical and Computer Engineering_409,South,Ovenbird_Seiurus aurocapilla,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPmeA8bmXoIE_kRmiAdteEJHcgJ5AivJ6tULZNT?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-20,2020-09-20,Yes,PM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,North,Thrush,Dead,https://photos.app.goo.gl/bwxDSz9MMtpMAqc28
+2020,9,2020-09-20,2020-09-20,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,North,Blackburnian Warbler_Setophaga fusca,Dead,https://photos.app.goo.gl/DFecAgBE4BKU7o6Y6
+2020,9,2020-09-20,2020-09-20,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,East,Scarlet Tanager_Piranga olivacea,Dead,https://photos.app.goo.gl/FYZ2NUMg4B2ctNnr8
+2020,9,2020-09-20,2020-09-20,Yes,PM,South Quad,Business Instructional Facility_1206,South,American Robin_Turdus migratorius,Dead,https://photos.app.goo.gl/YKnN696GNFoeohQ38
+2020,9,2020-09-20,2020-09-20,Yes,PM,South Quad,Business Instructional Facility_1206,East,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.app.goo.gl/HFS6XJZeBmvN2abo7
+2020,9,2020-09-20,2020-09-20,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,Black-throated Green Warbler_Setophaga virens,Alive,https://photos.app.goo.gl/zEjnLsXvMQD5uU6L8
+2020,9,2020-09-20,2020-09-20,Yes,AM,South Quad,Business Instructional Facility_1206,South,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/5tsFhMXu7cnC5aCF8
+2020,9,2020-09-20,2020-09-20,Yes,AM,South Quad,Krannert Art Museum_220,South,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/Hzc2y6M1svDRJjb87
+2020,9,2020-09-20,2020-09-20,NA,AM,NA,Morrill Hall_242,NA,Red-breasted Nuthatch_Sitta canadensis,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOShhh8Itt8vyZ8fUdVsuICMa_AFta2TE8-_-8X?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-20,2020-09-20,Yes,PM,North Quad,Grainger Engineering Library Information Center_324,North,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOD6CJjsd6Ujj7qGkshuaIccbym6uLARjJXGVn-?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-20,2020-09-20,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,South,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNipO0W6gx7l6P3zKrYvZD7DWOHtjfz6snuVxNT?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-20,2020-09-20,Yes,AM,North Quad,Electrical and Computer Engineering_409,North,NA,Dead,NA
+2020,9,2020-09-21,2020-09-21,Yes,AM,South Quad,Law Building_156,West,Red-eyed Vireo_Vireo olivaceus,Dead,https://photos.app.goo.gl/wbcnYHRJJFMaiLiaA
+2020,9,2020-09-21,2020-09-21,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-21,2020-09-21,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-21,2020-09-21,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-21,2020-09-21,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-22,2020-09-22,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-22,2020-09-22,Yes,PM,North Quad,Coordinated Science Laboratory_148,West,Tennessee Warbler_Oreothlypis peregrina,Dead,Side View
+2020,9,2020-09-22,2020-09-22,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-22,2020-09-22,Yes,PM,South Quad,Business Instructional Facility_1206,South,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPI6tbMHO0nkZnT5LgE4BtEs7yiQXuaPzYtWq12?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-22,2020-09-22,Yes,PM,South Quad,Business Instructional Facility_1206,South,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOKAmF4QoMcFMLg_iIxNthMVjTwnaVgQQspSS0r?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-23,2020-09-23,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-23,2020-09-23,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-23,2020-09-23,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,East,Ovenbird_Seiurus aurocapilla,Dead,NA
+2020,9,2020-09-23,2020-09-23,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,East,Unidentifiable,Dead,NA
+2020,9,2020-09-23,2020-09-23,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-24,2020-09-24,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-24,2020-09-24,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,West,Northern Waterthrush_Parkesia noveboracensis,Dead,https://photos.google.com/photo/AF1QipNX2QtjImLIEGeipIrzP09gMfA6If7dQSmEpGPN
+2020,9,2020-09-24,2020-09-24,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,NA,Dead,https://photos.app.goo.gl/g4i3jq25SGPyTn1h8
+2020,9,2020-09-24,2020-09-24,Yes,PM,North Quad,Grainger Engineering Library Information Center_324,West,NA,Dead,https://photos.app.goo.gl/zP5cPZ9pjuHVFpgX8
+2020,9,2020-09-24,2020-09-24,Yes,AM,North Quad,Beckman Institute_228,East,Magnolia Warbler_Setophaga magnolia,Dead,NA
+2020,9,2020-09-24,2020-09-24,Yes,AM,North Quad,Coordinated Science Laboratory_148,North,Ruby-throated Hummingbird_Archilochus colubris,Dead,Will add pics
+2020,9,2020-09-24,2020-09-24,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,NA
+2020,9,2020-09-24,2020-09-24,Yes,AM,North Quad,Electrical and Computer Engineering_409,South,Tennessee Warbler_Oreothlypis peregrina,Dead,NA
+2020,9,2020-09-24,2020-09-24,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,East,Ovenbird_Seiurus aurocapilla,Dead,NA
+2020,9,2020-09-24,2020-09-24,Yes,AM,Other (explain in notes),NA,North,Bay-breasted Warbler_Setophaga castanea,Alive,NA
+2020,9,2020-09-25,2020-09-25,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-25,2020-09-25,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,West,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/t1xZrVj7YuDVRbbq9
+2020,9,2020-09-25,2020-09-25,Yes,PM,North Quad,Siebel Center for Computer Science_563,North,Unidentifiable,Dead,https://photos.app.goo.gl/uTSQsUAsrdgL2H5f9
+2020,9,2020-09-25,2020-09-25,Yes,PM,North Quad,Coordinated Science Laboratory_148,North,Unidentifiable,Dead,https://photos.app.goo.gl/6g7VQxck9wPwtd1R7
+2020,9,2020-09-25,2020-09-25,Yes,PM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,North,Swainson's Thrush_Catharus ustulatus,Dead,https://photos.app.goo.gl/i8mYDuLgPbaYMRoF6
+2020,9,2020-09-26,2020-09-26,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-26,2020-09-26,Yes,PM,South Quad,Education Building_160,North,Ruby-throated Hummingbird_Archilochus colubris,Alive,https://photos.google.com/photo/AF1QipM16Bl6pj9GdI683pqKbOutBNtZNvjYF0rNCj6f
+2020,9,2020-09-26,2020-09-26,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-27,2020-09-27,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-27,2020-09-27,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-27,2020-09-27,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-27,2020-09-27,Yes,PM,South Quad,Business Instructional Facility_1206,South,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/biasUYZ9ZUBfXydB6
+2020,9,2020-09-28,2020-09-28,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-28,2020-09-28,Yes,AM,North Quad,Electrical and Computer Engineering_409,South,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN7Bkem4icSQ9YHUxz-LHdz9TEAa4lBRyTVBy4D?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-28,2020-09-28,Yes,AM,North Quad,Beckman Institute_228,West,NA,Alive,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNpXQRfXaVqn8TWZa0e41CwInACHSNP8TdSnMCM?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-28,2020-09-28,Yes,PM,South Quad,Business Instructional Facility_1206,South,Ruby-throated Hummingbird_Archilochus colubris,Dead,"https://photos.google.com/u/1/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipN1lwV4V0qmhMfnbmWBEluBy9RciJ5ZPeTuBi1d?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR, https://photos.google.com/u/1/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMj-SA6Ff0T5m5vHMVDVn10bcx5fGsLSaxHUPw_?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR"
+2020,9,2020-09-29,2020-09-29,Yes,AM,Other (explain in notes),NA,North,Swamp Sparrow_Melospiza georgiana,Alive,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,North,Gray Catbird_Dumetella carolinensis,Alive,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,North Quad,Beckman Institute_228,East,Swainson's Thrush_Catharus ustulatus,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,North Quad,Beckman Institute_228,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead,Will add
+2020,9,2020-09-29,2020-09-29,Yes,AM,North Quad,Beckman Institute_228,North,Swainson's Thrush_Catharus ustulatus,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,Main Quad,Carl R. Woese Institute for Genomic Biology_1080,West,Tennessee Warbler_Oreothlypis peregrina,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,South Quad,Education Building_160,North,White-throated Sparrow_Zonotrichia albicollis,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,South Quad,Business Instructional Facility_1206,South,Swainson's Thrush_Catharus ustulatus,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,South Quad,Business Instructional Facility_1206,South,Ovenbird_Seiurus aurocapilla,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,North Quad,Beckman Institute_228,East,Tennessee Warbler_Oreothlypis peregrina,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,North Quad,Beckman Institute_228,East,Gray-cheeked Thrush_Catharus minimus,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,North Quad,Beckman Institute_228,West,Ovenbird_Seiurus aurocapilla,Dead,NA
+2020,9,2020-09-29,2020-09-29,Yes,AM,North Quad,Beckman Institute_228,South,Red-eyed Vireo_Vireo olivaceus,Alive,NA
+2020,9,2020-09-29,2020-09-29,Yes,PM,North Quad,Beckman Institute_228,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,Side View
+2020,9,2020-09-29,2020-09-29,Yes,PM,North Quad,Electrical and Computer Engineering_409,South,Red-eyed Vireo_Vireo olivaceus,Dead,Side View
+2020,9,2020-09-29,2020-09-29,Yes,PM,North Quad,Micro and Nanotechnology Laboratory_237,East,Swainson's Thrush_Catharus ustulatus,Dead,Side View
+2020,9,2020-09-29,2020-09-29,Yes,PM,South Quad,Business Instructional Facility_1206,South,NA,Dead,NA
+2020,9,2020-09-30,2020-09-30,Yes,AM,North Quad,Beckman Institute_228,North,Northern Parula_Setophaga americana,Dead,https://photos.app.goo.gl/aVF7RxnFq3SoBLAH9
+2020,9,2020-09-30,2020-09-30,Yes,AM,North Quad,Electrical and Computer Engineering_409,North,Rose-breasted Grosbeak_Pheucticus ludovicianus,Dead,https://photos.app.goo.gl/csUGrkGCByram52f9
+2020,9,2020-09-30,2020-09-30,Yes,PM,North Quad,Beckman Institute_228,West,Tennessee Warbler_Oreothlypis peregrina,Dead,one  two
+2020,9,2020-09-30,2020-09-30,Yes,PM,North Quad,Engineering Hall_15,West,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.app.goo.gl/kDcp7vZtQYobJ2eH6
+2020,9,2020-09-30,2020-09-30,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,9,2020-09-30,2020-09-30,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,West,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMLqjIJlxABvUDgAQE0OPl30oZWxWU2VjhCZ42l?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-30,2020-09-30,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,East,Blackpoll Warbler_Setophaga striata,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMNLl4fDu0Xo-ell_UmMtRrwztOhG4EWrUD6TGl?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,9,2020-09-30,2020-09-30,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNFOoFwFrMPE95yRpqisarqQwbRAw7i9qAqa1xI?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,10,2020-10-01,2020-10-01,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-02,2020-10-02,Yes,AM,North Quad,Beckman Institute_228,North,Magnolia Warbler_Setophaga magnolia,Dead,https://photos.app.goo.gl/vEkBMW3SiqMb3hA86
+2020,10,2020-10-02,2020-10-02,Yes,AM,North Quad,Beckman Institute_228,West,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/7EnT3VX553afrdpo8
+2020,10,2020-10-02,2020-10-02,Yes,AM,North Quad,Beckman Institute_228,East,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.app.goo.gl/i2ft1FQsJxoRHJji8
+2020,10,2020-10-02,2020-10-02,Yes,AM,North Quad,Beckman Institute_228,South,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.app.goo.gl/CExbWhWxM1ZqGCxHA
+2020,10,2020-10-01,2020-10-01,Yes,PM,North Quad,Beckman Institute_228,North,Bay-breasted Warbler_Setophaga castanea,Alive,https://photos.google.com/photo/AF1QipPvkqG4FGiYPMJDZitwgLDGJMEu2mfC7CV_v2Yv
+2020,10,2020-10-01,2020-10-01,Yes,PM,North Quad,Coordinated Science Laboratory_148,North,Ruby-throated Hummingbird_Archilochus colubris,Dead,https://photos.google.com/photo/AF1QipN2Sx5X-wKDo9M8BoaCY78egGUkvwdmRSPzNEJW
+2020,10,2020-10-01,2020-10-01,Yes,PM,North Quad,Electrical and Computer Engineering_409,North,American Goldfinch_Spinus tristis,Dead,https://photos.google.com/photo/AF1QipNasAsqmw_k7yBLpfsPw18NC6IJdYHOff1l-Phq
+2020,10,2020-10-01,2020-10-01,Yes,PM,North Quad,Everitt Electrical & Computer Engineering Laboratory_37,North,Unidentifiable,Dead,https://photos.google.com/photo/AF1QipNqUkRGMKIVOBz6DO8KyUFDtenfwCQ-TrLRw3fV
+2020,10,2020-10-02,2020-10-02,Yes,PM,South Quad,Business Instructional Facility_1206,West,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/photo/AF1QipN3kQGp2UcRaY0jNaaVw8Tgk3k-if04wQJLSKE-
+2020,10,2020-10-02,2020-10-02,Yes,PM,South Quad,Law Building_156,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/photo/AF1QipMBzpQWTzCOwh43WPIK3brMeDFdsItJqvGRQfzx
+2020,10,2020-10-03,2020-10-03,Yes,AM,South Quad,Business Instructional Facility_1206,South,Unidentifiable,Dead,NA
+2020,10,2020-10-03,2020-10-03,Yes,AM,North Quad,Beckman Institute_228,North,Tennessee Warbler_Oreothlypis peregrina,Dead,NA
+2020,10,2020-10-03,2020-10-03,Yes,AM,North Quad,Grainger Engineering Library Information Center_324,South,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/odw7PzyQougVtGoe6
+2020,10,2020-10-03,2020-10-03,Yes,PM,South Quad,Temple Hoyne Buell Hall_339,West,Brown Creeper_Certhia americana,Dead,NA
+2020,10,2020-10-04,2020-10-04,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-05,2020-10-05,Yes,PM,North Quad,Beckman Institute_228,North,warbler?,Dead,https://photos.app.goo.gl/QN69R6UyK6QXXpocA
+2020,10,2020-10-06,2020-10-06,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-06,2020-10-06,Yes,PM,South Quad,Business Instructional Facility_1206,East,Swainson's Thrush_Catharus ustulatus,Dead,https://lh3.googleusercontent.com/pw/ACtC-3cmblyyKrx4z1BUQUL8_lhzWj7elFRv9jzy1Yz24YOEMu5bDVKAdO6PeAd9NROMaPdaKMaoFlWm-xZEx9Nw5A9_npWste8Upk23wpxGru9P4ado4iNEhAO66AVWOubx0aBhefiqwVKtAeVqGJt3zerb=w467-h622-no?authuser=0
+2020,10,2020-10-05,2020-10-05,Yes,AM,North Quad,Beckman Institute_228,North,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.app.goo.gl/MrBqYcPKMcKJ77vT7
+2020,10,2020-10-05,2020-10-05,Yes,AM,North Quad,Beckman Institute_228,West,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.app.goo.gl/iSp8P7USvZ2v9J45A
+2020,10,2020-10-05,2020-10-05,Yes,AM,North Quad,Beckman Institute_228,East,Red-breasted Nuthatch_Sitta canadensis,Dead,https://photos.app.goo.gl/e88pGmeKurMcpPUm6
+2020,10,2020-10-07,2020-10-07,Yes,AM,North Quad,North Campus Parking Deck_1094,North,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://photos.app.goo.gl/iXEmvnf8S4S2Eaci7
+2020,10,2020-10-04,2020-10-04,Yes,PM,North Quad,Beckman Institute_228,East,Unidentifiable,Dead,https://photos.google.com/photo/AF1QipPPz3uOylm_79tb2EOcBga-CkVmRwnHtZKttK_J
+2020,10,2020-10-05,2020-10-05,Yes,PM,South Quad,English Building_44,South,American Robin_Turdus migratorius,Alive,https://photos.google.com/photo/AF1QipOCOwxbdup1JYFYAIu-OJPqFi8n71IZ4neeY5pI
+2020,10,2020-10-06,2020-10-06,No,PM,North Quad,NA,NA,NA,NA,NA
+2020,10,2020-10-08,2020-10-08,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-07,2020-10-07,No,PM,South Quad,NA,NA,NA,NA,NA
+2020,10,2020-10-08,2020-10-08,No,PM,North Quad,NA,NA,NA,NA,NA
+2020,10,2020-10-08,2020-10-08,Yes,PM,South Quad,Agricultural Engineering Sciences Building_8,West,NA,Dead,NA
+2020,10,2020-10-08,2020-10-08,Yes,PM,South Quad,Business Instructional Facility_1206,South,NA,Dead,NA
+2020,10,2020-10-09,2020-10-09,Yes,AM,North Quad,Beckman Institute_228,North,Northern Flicker_Colaptes auratus,Dead,https://photos.app.goo.gl/pFhUZ1R6Hd6StTgb7
+2020,10,2020-10-09,2020-10-09,Yes,AM,North Quad,Beckman Institute_228,North,NA,Dead,https://photos.app.goo.gl/sz6aERe1b6ikvPE57
+2020,10,2020-10-09,2020-10-09,Yes,AM,North Quad,Beckman Institute_228,West,NA,Dead,https://photos.app.goo.gl/PJmwmxkYYVZQBcw58
+2020,10,2020-10-02,2020-10-02,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-04,2020-10-04,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-09,2020-10-09,Yes,PM,North Quad,Beckman Institute_228,East,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipPennU-2DMFssBoeMD___BhCN5pR1DiUf4FIsjW?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,10,2020-10-09,2020-10-09,Yes,PM,North Quad,Coordinated Science Laboratory_148,North,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNsea7zBREKageexKxxIUL6eexdnMbfQFebwCPG?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,10,2020-10-09,2020-10-09,Yes,PM,South Quad,Education Building_160,West,NA,Dead,https://photos.google.com/u/2/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOTo9YO3dR3HuSC2GCQ1WYGLeNQDLdKLJyqwhQz?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,10,2020-10-10,2020-10-10,Yes,AM,North Quad,Beckman Institute_228,South,Unidentifiable,Dead,NA
+2020,10,2020-10-10,2020-10-10,No,PM,South Quad,All Buildings of Route,South,NA,NA,NA
+2020,10,2020-10-11,2020-10-11,Yes,PM,North Quad,Siebel Center for Computer Science_563,West,Yellow-bellied Sapsucker_Sphyrapicus varius,Dead,https://photos.app.goo.gl/E8NuzKHHXvQq1FmE9
+2020,10,2020-10-11,2020-10-11,Yes,PM,North Quad,Siebel Center for Computer Science_563,West,Warbler?,Dead,https://photos.app.goo.gl/ZWjX1Wif7Qh1PfC88
+2020,10,2020-10-11,2020-10-11,Yes,PM,North Quad,Electrical and Computer Engineering_409,East,Flycatcher?,Dead,https://photos.app.goo.gl/8ZkSPvWcoMXEDtH97
+2020,10,2020-10-11,2020-10-11,No,AM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-12,2020-10-12,Yes,AM,South Quad,Krannert Art Museum_220,South,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.app.goo.gl/F9YqUJ2Y39vPziQd9
+2020,10,2020-10-12,2020-10-12,Yes,AM,South Quad,Law Building_156,North,Lincoln's Sparrow_Melospiza lincolnii,Dead,https://photos.app.goo.gl/ydhrBvkXJpp9sVwd7
+2020,10,2020-10-10,2020-10-10,Yes,PM,North Quad,Beckman Institute_228,North,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNml4P_NnDnbzNt6V_YoxeOGUTYfqh6Wd_PIUbU?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,10,2020-10-11,2020-10-11,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-07,2020-10-07,No,PM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-15,2020-10-15,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,NA,Dead,https://photos.app.goo.gl/FfWQ7kKFFMG5euYR9
+2020,10,2020-10-13,2020-10-13,Yes,AM,North Quad,Beckman Institute_228,North,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipMzcgOBxvkmOH06JKOyc3R9cSwihXDrk0PrNbhy?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,10,2020-10-13,2020-10-13,Yes,AM,North Quad,Beckman Institute_228,North,NA,Dead,https://photos.google.com/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipOa_j3BSa9BNRG5nTw3F5diLDUC5wKNDBj08pSm?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,10,2020-10-15,2020-10-15,No,AM,North Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-14,2020-10-14,Yes,AM,South Quad,Temple Hoyne Buell Hall_339,West,Song Sparrow_Melospiza melodia,Dead,https://photos.app.goo.gl/KmBTi2Zuphdu4J4NA
+2020,10,2020-10-16,2020-10-16,Yes,AM,South Quad,Law Building_156,North,White-throated Sparrow_Zonotrichia albicollis,Alive,NA
+2020,10,2020-10-18,2020-10-18,Yes,AM,South Quad,Agricultural Engineering Sciences Building_8,North,American Robin_Turdus migratorius,Dead,https://photos.app.goo.gl/SAfdJ1xnVCvaZdyv5
+2020,10,2020-10-18,2020-10-18,Yes,AM,South Quad,Business Instructional Facility_1206,South,White-throated Sparrow_Zonotrichia albicollis,Dead,https://photos.app.goo.gl/iAhX8GpzLzUnTLTM7
+2020,10,2020-10-18,2020-10-18,Yes,AM,South Quad,Business Instructional Facility_1206,South,NA,Dead,https://photos.app.goo.gl/innZZ5XXykr32YH67
+2020,10,2020-10-18,2020-10-18,Yes,AM,South Quad,Krannert Art Museum_220,North,Virginia Rail_Rallus limicola,Dead,https://photos.app.goo.gl/Ce6A8j8onLAs5TKt5
+2020,10,2020-10-11,2020-10-11,No,NA,North Quad,NA,NA,NA,NA,NA
+2020,10,2020-10-12,2020-10-12,Yes,PM,South Quad,English Building_44,South,Tennessee Warbler_Oreothlypis peregrina,Alive,https://drive.google.com/file/d/1BjWpCvcVmK8RlSE4VxPuJewVlUcP3JXo/view?usp=sharing
+2020,10,2020-10-13,2020-10-13,Yes,PM,North Quad,Siebel Center for Computer Science_563,North,Chipping Sparrow_Spizella passerina,Dead,https://photos.google.com/photo/AF1QipO8E2rHIFX-3QlaaGP3slKXdwFxsUbqjvFSNpeH
+2020,10,2020-10-13,2020-10-13,Yes,PM,North Quad,Beckman Institute_228,East,Tennessee Warbler_Oreothlypis peregrina,Dead,https://photos.google.com/photo/AF1QipOky99ZczqztZFUiPryaKgHSrMakd904JE08rn6
+2020,10,2020-10-14,2020-10-14,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-15,2020-10-15,Yes,PM,North Quad,Siebel Center for Computer Science_563,North,Unidentifiable,Dead,https://photos.google.com/photo/AF1QipPc4E8LCqvVFYBqIxTyUaDrlHFANoP4Hlykj5fU
+2020,10,2020-10-16,2020-10-16,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-17,2020-10-17,Yes,AM,North Quad,Micro and Nanotechnology Laboratory_237,North,NA,Dead,https://photos.google.com/u/1/share/AF1QipOGw0lAsnF6399eLAPzluBCtnrxBGjjear1i5tHglFz_iEIwmO4J-6KN0f0sUwWFg/photo/AF1QipNuSCZZZBbsNjD0jRUCzqXjBXocRe4xNoyWLV7e?key=VHFHNG9rcnBzdEktbUQ3SjZCZ1hScGd4bzNwbnJR
+2020,10,2020-10-18,2020-10-18,Yes,PM,North Quad,North Campus Parking Deck_1094,West,Nashville Warbler_Oreothlypis ruficapilla,Dead,https://drive.google.com/file/d/1Brdcp4MPQoJB2nwekvlJ9ekd7bGtKczx/view?usp=sharing
+2020,10,2020-10-18,2020-10-18,No,PM,South Quad,All Buildings of Route,NA,NA,NA,NA
+2020,10,2020-10-16,2020-10-16,Yes,AM,North Quad,Siebel Center for Computer Science_563,East,unknown,Dead,emailed
+2020,10,2020-10-16,2020-10-16,Yes,AM,North Quad,Siebel Center for Computer Science_563,North,unknown,Dead,emailed

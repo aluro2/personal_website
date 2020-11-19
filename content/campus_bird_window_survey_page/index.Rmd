@@ -1,9 +1,8 @@
 ---
-title: "University of Illinois Bird Window Strike Campus Survey Fall 2019"
-date: "2019-11-30"
+title: "University of Illinois Bird Window Strike Campus Survey Fall 2019-2020"
 header:
   caption: ''
-  image: 'bird_windowstrikes_collage.jpg'
+  image: bird_windowstrikes_collage.jpg
 profile: no
 reading_time: no
 share: yes
@@ -28,63 +27,92 @@ library(htmltools)
 library(leaflet)
 library(DT)
 library(stringr)
+library(plotly)
+library(lubridate)
 
-```
-
-```{r birds_by_species, echo = FALSE, message = FALSE}
+survey_data_paths <-
+  list.files("Data", "UIUC_bird_survey_data_backup", full.names = TRUE)
 
 bird_data <-
-  read_csv("Data/UIUC_bird_survey_data_backup.csv")
+  bind_rows(
+    read.csv(survey_data_paths[1]),
+    read.csv(survey_data_paths[2])) %>%
+  janitor::remove_empty() %>% 
+  mutate(year = as.factor(lubridate::year(date_mm_dd_yyyy)),
+         month = as.factor(lubridate::month(date_mm_dd_yyyy)),
+         month_day = as.factor(format(date_mm_dd_yyyy, format="%m-%d"))) %>%
+  select(year,
+         month,
+         month_day,
+         date_mm_dd_yyyy,
+         any_birds_found_on_route_shift,
+         route_shift,
+         route_name,
+         building_name,
+         building_face_direction,
+         species,
+         found_dead_alive,
+         picture_url_google_photos_album)
 
-text_cols<-colorRampPalette(c("red", "dodgerblue"))
+# Make a downloadable copy
+write_csv(bird_data, "Data/UIUC_bird_survey_data_all_years.csv")
 
-bird_data_by_species <-
+```
+As of `r format(Sys.time(), '%d %B, %Y')`, our survey has found __`r filter(bird_data, any_birds_found_on_route_shift == "Yes") %>% nrow()`__ birds.
+
+# Species Found
+```{r birds_by_species, echo = FALSE, message = FALSE}
+
+plot_data <-
   bird_data %>%
     filter(any_birds_found_on_route_shift == "Yes",
-           !species == "NA",
-           !species == "Unidentifiable") %>% 
-    select(species) %>% 
-    table(.) %>% 
-    as_tibble(.) %>% 
+           !species %in% c(
+             "NA","Unidentifiable", "unknown", "thrush sp.", "Thrush", "Warbler"),
+           !str_detect(species, "[?]")) %>%
+    select(species) %>%
+    mutate(species = str_trim(species, side = "both"),
+           species = str_extract(species, "[^_]+")) %>%
+    table(.) %>%
+    as_tibble(.) %>%
     rename(Species = ".",
            "Number of Birds Found" = n ) %>%
-    mutate(Species = str_extract(Species, "[^_]+")) %>%
-    arrange(., desc(`Number of Birds Found`), Species) %>% 
-    mutate(Species = factor(Species, levels = unique(Species))) %>% 
-  filter(`Number of Birds Found` > 1)
+    arrange(., desc(`Number of Birds Found`), Species) %>%
+    mutate(Species = factor(Species, levels = unique(Species)),
+           Total = sum(`Number of Birds Found`),
+           `Percent of Birds Found` = round(`Number of Birds Found`/Total*100, 1)) 
 
-bird_data_by_species %>% 
-  ggplot(., aes(x = Species, y = `Number of Birds Found`)) + 
+species_plot <-
+  ggplot(plot_data,
+         aes(
+    text = paste(
+      "Species: ", Species, "\n",
+      "Total: ", `Number of Birds Found`, "\n",
+      "% of Total: ", `Percent of Birds Found`, "\n",
+      sep = ""
+    ))) +
   geom_linerange(
-    aes(x = Species, ymin = 0, ymax = `Number of Birds Found`), 
+    aes(x = Species, ymin = 0, ymax = `Percent of Birds Found`),
     color = "darkgray",
     size = 1.5) +
-  geom_point(aes(fill = `Number of Birds Found`,
-                 color = `Number of Birds Found`),
-             shape = 21,
-             size = 7,
-             stroke = 1.5,
-             position = position_dodge(width = 0.8)) +
-  scale_fill_gradient2(high = "red",
-                       mid = "orange",
-                       low = "dodgerblue",
-                       midpoint = 12) +
-  scale_colour_gradient2(high = "black",
-                         mid = "gray4",
-                         low = "lightgray",
-                         midpoint = 6) +
-  ylim(0,25) +
+  geom_point(aes(fill = Species, x = Species, y = `Percent of Birds Found`),
+             color = "darkgrey",  size = 7, shape = 21 ) +
+  scale_fill_viridis_d(direction = -1, option = "plasma") +
+  scale_y_continuous(
+      breaks = function(x) unique(
+        floor(pretty(seq(0, (max(x) + 1) * 1.05))))) +
   theme_fivethirtyeight() + 
   theme(#panel.background = element_rect(fill = "black",
                                         #colour = "black",
                                        #size = 0.5, linetype = "solid"),
-        axis.text.x = element_text(angle = 50, hjust = 1, size = 18, colour = text_cols(nrow(bird_data_by_species))),
-        axis.title = element_text(size = 36, face = "bold"),
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 11),
+        axis.text.y = element_text(size = 14),
+        axis.title = element_text(size = 18, face = "bold"),
         text = element_text(family = "Calibri", size = 20),
         legend.position = "none",
-        panel.grid.major.x = element_blank(),
-        plot.margin = margin(t = 0.5, b = 0.5, r = 0.5, l = 2, "cm")
-        )
+        panel.grid.major.x = element_blank())
+
+ggplotly(species_plot, tooltip = "text")
+
 ```
 
 ***
@@ -116,40 +144,21 @@ bird_map_data %>%
 
 ***
 
-[Download Data](Data/UIUC_bird_survey_data_backup.csv)
+[Download Data](Data/UIUC_bird_survey_data_all_years.csv)
 
 ***
 
-## Participants
+# Survey participants 
+```{r participants, echo = FALSE, warning=FALSE, message=FALSE}
+participant_names <-
+  read_csv("Data/survey_participants.csv") %>% 
+  select(Name) %>%
+  mutate(Last = str_split_fixed(Name, " ", 2)[,2]) %>%
+  arrange(Last) %>% 
+  select(!Last) %>%
+  rename(Participant = Name) %>% 
+  unique() %>% 
+  as.tibble()
 
-* Alec Luro
-* Alex Di Giovanni
-* Alida de Flamingh
-* Amy Anderson
-* Angel Rivera-Colon
-* Caterina Kim
-* Ceci Prada
-* Claire Johnson
-* Colin Dobson
-* Donglai Li
-* Evalynn Trumbo
-* Gabby Jukkala
-* Henry Pollock
-* Ian Souza-Cole
-* Ilona Menel
-* Kira Long
-* Loralee Wilson
-* Lynette Strickland
-* Maggie Murphree
-* Morgan Meador
-* Rachel Skinner
-* Samantha Capel
-* Sarai Stuart
-* Scott Clem
-* Shelby Lawson
-* Stefanie Postula
-* Tianlin Pan
-* Tolu Perrin-Stowe
-* Veronica Severini
-* Xing Liu
-* Yu-Fu Wu
+knitr::kable(participant_names, format = "html", booktabs = TRUE)
+```
