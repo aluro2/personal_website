@@ -111,8 +111,8 @@ species_plot <-
 
   plotly_species_plot <-
     ggplotly(species_plot, tooltip = "text")
-  
-  widgetframe::frameWidget(plotly_species_plot)
+
+  plotly_species_plot
 
 
 ```
@@ -146,7 +146,8 @@ leaflet_bird_map <-
                label = ~htmlEscape(species_date),
                clusterOptions = markerClusterOptions()) 
 
-widgetframe::frameWidget(leaflet_bird_map)
+
+leaflet_bird_map
 
 
 ```
