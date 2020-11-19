@@ -7,8 +7,9 @@ profile: no
 reading_time: no
 share: yes
 subtitle: Led by Graduates in Ecology and Evolutionary Biology
-summary: Here we describe how to add a page to your site.
+summary: 
 comments: no
+output: hugodown::md_document
 ---
 
 ```{r global_options, include=FALSE}
