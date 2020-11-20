@@ -9,7 +9,13 @@ share: yes
 subtitle: Led by Graduates in Ecology and Evolutionary Biology
 summary: Webpage for bird window collision data analysis reporting.
 comments: no
+output: html_document
 ---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width = 12, fig.height = 10, fig.path = 'Figs/', fig.align = "center",
+                      echo = TRUE, warning = FALSE, tidy = F)
+```
 
 ```{r load packages and import data, echo=FALSE, message=FALSE}
 
@@ -100,7 +106,7 @@ species_plot <-
     color = "darkgray",
     size = 1.5) +
   geom_point(aes(fill = Species, x = Species, y = `Percent of Birds Found`),
-             color = "darkgrey",  size = 5, shape = 21 ) +
+             color = "darkgrey",  size = 7, shape = 21 ) +
   scale_fill_viridis_d(direction = -1, option = "plasma") +
   scale_y_continuous(
       breaks = function(x) unique(
@@ -109,9 +115,9 @@ species_plot <-
   theme(#panel.background = element_rect(fill = "black",
                                         #colour = "black",
                                        #size = 0.5, linetype = "solid"),
-        axis.text.x = element_text(angle = 45, hjust = 1, size = 8),
-        axis.text.y = element_text(size = 12),
-        axis.title = element_text(size = 12, face = "bold"),
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 10),
+        axis.text.y = element_text(size = 14),
+        axis.title = element_text(size = 18, face = "bold"),
         text = element_text(family = "Calibri", size = 20),
         legend.position = "none",
         panel.grid.major.x = element_blank())
