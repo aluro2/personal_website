@@ -57,7 +57,7 @@ write_csv(bird_data, "Data/UIUC_bird_survey_data_all_years.csv")
 As of `r format(Sys.time(), '%d %B, %Y')`, our survey has found __`r filter(bird_data, any_birds_found_on_route_shift == "Yes") %>% nrow()`__ birds.
 
 # Species Found
-```{r birds_by_species, echo = FALSE, message = FALSE}
+```{r birds_by_species, echo = FALSE, message = FALSE, width = "95%"}
 
 plot_data <-
   bird_data %>%
@@ -91,7 +91,7 @@ species_plot <-
     color = "darkgray",
     size = 1.5) +
   geom_point(aes(fill = Species, x = Species, y = `Percent of Birds Found`),
-             color = "darkgrey",  size = 7, shape = 21 ) +
+             color = "darkgrey",  size = 5, shape = 21 ) +
   scale_fill_viridis_d(direction = -1, option = "plasma") +
   scale_y_continuous(
       breaks = function(x) unique(
@@ -100,18 +100,18 @@ species_plot <-
   theme(#panel.background = element_rect(fill = "black",
                                         #colour = "black",
                                        #size = 0.5, linetype = "solid"),
-        axis.text.x = element_text(angle = 45, hjust = 1, size = 11),
-        axis.text.y = element_text(size = 14),
-        axis.title = element_text(size = 18, face = "bold"),
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 8),
+        axis.text.y = element_text(size = 12),
+        axis.title = element_text(size = 12, face = "bold"),
         text = element_text(family = "Calibri", size = 20),
         legend.position = "none",
         panel.grid.major.x = element_blank())
 
 
-  plotly_species_plot <-
-    ggplotly(species_plot, tooltip = "text")
+  #plotly_species_plot <-
+  #  ggplotly(species_plot, tooltip = "text")
 
-  plotly_species_plot
+  species_plot
 
 
 ```
