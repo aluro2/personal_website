@@ -9,7 +9,6 @@ share: yes
 subtitle: Led by Graduates in Ecology and Evolutionary Biology
 summary: Webpage for bird window collision data analysis reporting.
 comments: no
-output: hugodown::md_document
 ---
 
 ```{r load packages and import data, echo=FALSE, message=FALSE}
@@ -19,6 +18,7 @@ library(googlesheets)
 library(janitor)
 library(ggthemes)
 library(extrafont)
+library(htmlwidgets)
 library(htmltools)
 library(leaflet)
 library(DT)
@@ -54,6 +54,15 @@ bird_data <-
 write_csv(bird_data, "Data/UIUC_bird_survey_data_all_years.csv")
 
 ```
+
+```{r set_options, include=FALSE}
+# For all practicle purposes this should always be FALSE 
+knitr::opts_chunk$set(widgetframe_self_contained = FALSE) # default = FALSE
+
+# For all practicle purposes this should always be TRUE 
+knitr::opts_chunk$set(widgetframe_isolate_widgets = TRUE) # default = TRUE
+```
+
 As of `r format(Sys.time(), '%d %B, %Y')`, our survey has found __`r filter(bird_data, any_birds_found_on_route_shift == "Yes") %>% nrow()`__ birds.
 
 # Species Found
@@ -135,19 +144,16 @@ bird_map_data <-
                                                    str_trim(picture_url_google_photos_album),
                                                    "'>Photo Link</a>", sep = "" ),
            species = str_extract(species, "[^_]+"),
-           species_date = paste0(species, "\n", date_mm_dd_yyyy, "\n", sep = " ")) 
+           species_date = paste0(species, "\n", date_mm_dd_yyyy, "\n", sep = " ")) %>% 
+  filter(!lat == "NA")
 
-leaflet_bird_map <-
+#leaflet_bird_map <-
   bird_map_data %>% 
     leaflet() %>%
     addTiles() %>%
     addMarkers(., lng = ~lon, lat = ~lat, popup = ~picture_url_google_photos_album,
                label = ~htmlEscape(species_date),
                clusterOptions = markerClusterOptions()) 
-
-
-leaflet_bird_map
-
 
 ```
 
