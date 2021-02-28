@@ -1,0 +1,32 @@
+building_name,building_face_direction,n_birds
+Beckman Institute_228,East,28
+Beckman Institute_228,North,49
+Beckman Institute_228,South,46
+Beckman Institute_228,West,33
+Coordinated Science Laboratory_148,North,10
+Coordinated Science Laboratory_148,South,1
+Coordinated Science Laboratory_148,West,14
+Digital Computer Laboratory_210,North,1
+Electrical and Computer Engineering_409,East,8
+Electrical and Computer Engineering_409,North,13
+Electrical and Computer Engineering_409,South,15
+Electrical and Computer Engineering_409,West,1
+Engineering Hall_15,West,1
+Everitt Electrical & Computer Engineering Laboratory_37,North,4
+Grainger Engineering Library Information Center_324,North,5
+Grainger Engineering Library Information Center_324,South,3
+Grainger Engineering Library Information Center_324,West,2
+Micro and Nanotechnology Laboratory_237,East,8
+Micro and Nanotechnology Laboratory_237,North,3
+Micro and Nanotechnology Laboratory_237,South,2
+National Center for Supercomputing Applications_564,East,1
+National Center for Supercomputing Applications_564,North,5
+Newmark Civil Engineering Building_24,East,2
+Newmark Civil Engineering Building_24,North,1
+North Campus Parking Deck_1094,East,1
+North Campus Parking Deck_1094,North,7
+North Campus Parking Deck_1094,South,1
+North Campus Parking Deck_1094,West,2
+Siebel Center for Computer Science_563,East,2
+Siebel Center for Computer Science_563,North,9
+Siebel Center for Computer Science_563,West,4
