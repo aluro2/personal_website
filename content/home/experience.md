@@ -17,13 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "PhD Candidate"
+  title = "PhD Biology"
   company = "Hauber Lab, University of Illinois at Urbana-Champaign"
   company_url = "https://www.cowbirdlab.org/"
   location = "Urbana, Illinois"
   date_start = "2016-08-31"
-  date_end = ""
+  date_end = "2021-12-20"
   description = """Thesis Title: *Color and Vision in Birds*"""
 
 [[experience]]

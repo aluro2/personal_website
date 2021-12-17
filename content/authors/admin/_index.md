@@ -10,33 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Research Data Analyst II
 
 # Organizations/Affiliations
 organizations:
-- name: University of Illinois at Urbana-Champaign
-  url: "https://sib.illinois.edu/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
 
 interests:
-- Behavioral Ecology
-- Visual Ecology
-- Conservation
-- Ornithology
 - Statistical Modeling
 - Data Visualization
+- Conservation
+- Ornithology
+
 
 education:
   courses:
-  - course: PhD in Evolution, Ecology & Behavior
+  - course: PhD Biology
     institution: University of Illinois at Urbana-Champaign
-    year: 2016-Present
-  - course: MA in Animal Behavior and Conservation
+    year: 2021
+  - course: MA Animal Behavior and Conservation
     institution: Hunter College
     year: 2016
-  - course: BSc in Ecology, Evolution & Behavior
+  - course: BSc Ecology, Evolution & Behavior
     institution: University of New Hampshire
     year: 2013
 
@@ -73,4 +72,4 @@ email: ""
 #- Visitors
 ---
 
-I am a researcher studying how visual perception and color influences behavior in birds. My current work focuses on offspring recognition in hosts of brood parasites, mate recognition and choice in American robins (*Turdus migratorius*), and the evolution of plumage sexual dichromatism in *Turdus* thrushes. Much of my research involves the use of spectroscopy, modeling of avian vision, and using a variety of statistical approaches to answer why animals look and behave the way they do.
+I am a data analyst and researcher. My past work focused on avian visual perception, offspring recognition in hosts of avian brood parasites, mate recognition and choice in American robins (*Turdus migratorius*), and the evolution of plumage sexual dichromatism in *Turdus* thrushes. This work involved extensive use of spectroscopy, modeling of avian vision, and using a variety of statistical approaches to answer why animals look and behave the way they do.
